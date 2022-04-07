@@ -18,21 +18,23 @@ Zenodo is a free and open-access repository operated by the European Organizatio
 
 DOE CODE is a DOE maintained software service for DOE funded code projects.   It provides archiving, searching and discover of scientific and business software.   DOE CODE is run by the Office of Scientific and Technical Information (OSTI).   DOE CODE can generate DOI numbers but does not have the GitHub integration support of Zenodo so for GitHub projects we recommend Zenodo for generating DOI's.   We recommend creating entries at DOE CODE for the primary software projects even if you are using Zenodo.  For project not using GitHub DOE CODE provides both archiving and DOI generation for file uploads.
 
-<h3>Setting up Zenodo</h3>
+<h3>Zenodo</h3>
 
-Since Zenodo is widely used there are a large number of tutorial videos and websites with tutorials documenting how to use Zenodo.   This video provides a nice overview of Zenodo and how to manually upload files and generate a DOI for them:  https://www.youtube.com/watch?v=S1qK_TA52e4
+<h4>Setting up Zenodo</h4>
 
-Zenodo maintains a help page with additional useful information here: https://help.zenodo.org/
+Since Zenodo is widely used there are a large number of tutorial videos and websites with tutorials documenting how to use Zenodo.   This video provides a nice overview of Zenodo and how to manually upload files and generate a DOI for them [How to upload data to Zenodo for open science?](https://www.youtube.com/watch?v=S1qK_TA52e4)
 
-<h3>Integration of Zenodo and GitHub</h3>
+Zenodo maintains a help page with additional useful information here [Zenodo Help](https://help.zenodo.org/)
+
+<h4>Integration of Zenodo and GitHub</h4>
 
 Automation can make the process of DOI generation and archives easy and saves extra manual steps in your release process.   The integration of Zenodo and GitHub is extremely simple.   You can log into Zenodo using your GitHub credentials, select repositories to enable DOI generation and DOI's will be generated automatically for every GitHub software release.  The entire setup for a project will likely take no more than an hour or two.   Most of that time will be editing the metadata for the project, setting up the Zenodo/GitHub integration is trivial.
 
-Again there are many videos and guides available online.   This video demonstrates how easy the GitHub intregration setup is: https://www.youtube.com/watch?v=gp3D4mf6MHQ
+Again there are many videos and guides available online.   This video demonstrates how easy the GitHub intregration setup is [How to make open-source code citable with GitHub and Zenodo?](https://www.youtube.com/watch?v=gp3D4mf6MHQ)
 
-Here is an tutorial article with the same information if you prefer text: https://emilio-berti.github.io/idiv-git-introduction/21-github_zenodo/index.html
+Here is an tutorial article with the same information if you prefer text [Connecting GitHub with Zenodo](https://emilio-berti.github.io/idiv-git-introduction/21-github_zenodo/index.html).
 
-<h3>Zenodo Setup Suggestions</h3>
+<h4>Zenodo Setup Suggestions</h4>
 
 One issue with a DOI for software is a DOI is normally a reference to a single specific document/file.   This feature is important for repeatability, you need the exact version used.   However software is constantly changing so there is value in having a DOI for software project that isn't tied to a specific version when you need a general reference to the project.   Zenodo supports this with a DOI that is created for the software project and a DOI that is for each release.   The general DOI will take you to the latest version and previous versions are shown in a side panel.
 
@@ -46,27 +48,23 @@ A popup should come up with a list of link options for markdown, HTML, etc.  For
 
 You can get a badge for the general DOI or for a specific release.
 
-<h3>Setting up DOE CODE</h3>
+<h3>DOE CODE</h3>
 
-An high level overview of DOE CODE is avaialable in this video : https://www.youtube.com/watch?v=NKo0U92PXzA
+<h4>Setting up DOE CODE</h4>
 
-A tutorial on setting up a project is avialable on the IDEAS-Watersheds software page :  https://docs.google.com/presentation/d/1DgVAqFkQiuD-03XJy5GqDxNsYr7Robdl/edit?usp=sharing&ouid=111484267752678144523&rtpof=true&sd=true
+An high level overview of DOE CODE is avaialable in this video [Introducing DOE CODE](https://www.youtube.com/watch?v=NKo0U92PXzA)
+
+A set of tutorial slicdes on setting up a project is avialable on the IDEAS-Watersheds software page at [DOE CODE Slides](https://docs.google.com/presentation/d/1DgVAqFkQiuD-03XJy5GqDxNsYr7Robdl/edit?usp=sharing&ouid=111484267752678144523&rtpof=true&sd=true).
+
+A video of this presentation is here [DOE CODE Presentation](https://drive.google.com/drive/folders/1VOLL0PctOdw44e7mDi11rmAiKRJq1Pc_?usp=sharing).
+
+OSTI provides a [DOE CODE FAQ](https://www.osti.gov/doecode/faq) which has useful suggestions and help setting up projects.
 
 If your are using a public repository DOE CODE will auto populate many of the meta-data fields from the repository.
 
-Longest step for initial setup was editing the contributors section.  DOE-CODE imports the usernames from GitHub but that didn't seem super useful.   On ParFlow we did some manual editing of the auto-imported to fill out full names and institions when known.
+The longest step for initial setup was editing the contributors section.  DOE-CODE imports the usernames from GitHub but that didn't seem super useful.   On the ParFlow project some manual editing of the auto-imported to fill out full names and institions when known was done.
 
-
-
-Questions:
-
-SGS - Thought it was possible to upload a tarball of software to DOE code.  Initial browsing of Submit New Software Project forms, didn't see how this was done.
-
-DOE CODE FAQ link https://www.osti.gov/doecode/faq
-
-Link to Software best practices seminar with DOC CODE staff?
-
-<h3>Updating DOE CODE</h3>
+<h4>Updating DOE CODE</h4>
 
 TODO add some figures here?
 
@@ -86,9 +84,15 @@ For the ParFlow project the following steps are used updating DOE CODE.  ParFlow
 
 - Submit Project when done.
 
+<h4>DOE CODE Setup Suggestions</h4>
+
+Open Questions:
+
+SGS - Thought it was possible to upload a tarball of software to DOE code.  Initial browsing of Submit New Software Project forms, didn't see how this was done.
+
 <h3>General Guidelines</h3>
 
-The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) is using Zenodo as part of their data management practices and has a nice write-up on using Zenodo https://ict.ipbes.net/data-management/technical-guidelines/Zenodo
+The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) is using Zenodo as part of their data management practices and has a nice write-up on using Zenodo [Zenodo Guidelines](https://ict.ipbes.net/data-management/technical-guidelines/Zenodo)
 
 <h3>Advanced Topics</h3>
 
