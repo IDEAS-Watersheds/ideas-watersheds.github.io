@@ -8,7 +8,7 @@ hero_height: is_fullheight
 ---
 <h2>IDEAS-Watersheds Archiving and DOI Best Practices (DRAFT)</h2>
 
-The IDEAS-Watersheds Software Ecosystem DOI best practices are intended to enhance provide help setting up and maintaining Digital Object Identifier (DOI) for primary software projects.   DOI's are increasingly necessary for papers publishing results of simulations and help improve repeatability by have a unique identifier for a software release.   An archive of the software is also obtainable given a DOI from sites such as Zenodo and DOE CODE.   Once a DOI for the file archive is created the file archive is fixed so one is guaranteed to be able to obtain the exact same software release.   We discuss archiving and DOI generation in the same context because they are linked topics, how you create long-lived archives and how to create references/name them are very related topics.
+The IDEAS-Watersheds Software Ecosystem DOI best practices are intended to enhance provide help setting up and maintaining Digital Object Identifier (DOI) for primary software projects.   DOI's are increasingly necessary for papers publishing results of simulations and help improve repeatability by have a unique identifier for a software release.   An archive of the software is also obtainable given a DOI from sites such as Zenodo and DOE CODE.   Once a DOI for the file archive is created the file archive is fixed so one is guaranteed to be able to obtain the exact same software release.   We discuss archiving and DOI generation in the same context because they are linked topics, how you create long-lived archives and how to create a long lived references/name are related topics.
 
 One of our software polices is for primary codes to have a DOI for releases.   This guide is intended to help projects setup an automated method for generating DOI's in order to minimize the cost of maintaining DOI's.   This guide also provides some help publishing code releases on the DOE CODE site for visibility and archival purposes.
 
@@ -16,7 +16,7 @@ First, we will focus on the Zenodo system since it supports fully integration wi
 
 Zenodo is a free and open-access repository operated by the European Organization for Nuclear Research (CERN).   Zenodo is a repository of data sets, research software, reports, and any other research related digital artifacts.   In addition to the repository features it offers persistent DOI generation to allow easy citation and finding of data objects.   For purposes of this best practice guide, we will focus on the DOI generation and arching of software.
 
-DOE CODE is a DOE maintained software service for DOE funded code projects.   It provides archiving, searching and discover of scientific and business software.   DOE CODE is run by the Office of Scientific and Technical Information (OSTI).   DOE CODE can generate DOI numbers but does not have the GitHub integration support of Zenodo so for GitHub projects we recommend Zenodo for generating DOI's.   We also recommend creating entries at DOE CODE for the primary software projects.   If you are not using GitHub DOE CODE provides both archiving and DOI generation for file uploads.
+DOE CODE is a DOE maintained software service for DOE funded code projects.   It provides archiving, searching and discover of scientific and business software.   DOE CODE is run by the Office of Scientific and Technical Information (OSTI).   DOE CODE can generate DOI numbers but does not have the GitHub integration support of Zenodo so for GitHub projects we recommend Zenodo for generating DOI's.   We recommend creating entries at DOE CODE for the primary software projects even if you are using Zenodo.  For project not using GitHub DOE CODE provides both archiving and DOI generation for file uploads.
 
 <h3>Setting up Zenodo</h3>
 
@@ -28,15 +28,15 @@ Zenodo maintains a help page with additional useful information here: https://he
 
 Automation can make the process of DOI generation and archives easy and saves extra manual steps in your release process.   The integration of Zenodo and GitHub is extremely simple.   You can log into Zenodo using your GitHub credentials, select repositories to enable DOI generation and DOI's will be generated automatically for every GitHub software release.  The entire setup for a project will likely take no more than an hour or two.   Most of that time will be editing the metadata for the project, setting up the Zenodo/GitHub integration is trivial.
 
-Again there are many videos and guides available online.   This video demonstrates how easy the setup is: https://www.youtube.com/watch?v=gp3D4mf6MHQ
+Again there are many videos and guides available online.   This video demonstrates how easy the GitHub intregration setup is: https://www.youtube.com/watch?v=gp3D4mf6MHQ
 
 Here is an tutorial article with the same information if you prefer text: https://emilio-berti.github.io/idiv-git-introduction/21-github_zenodo/index.html
 
-<h3>Zenodo GitHub Setup Suggestions</h3>
+<h3>Zenodo Setup Suggestions</h3>
 
 One issue with a DOI for software is a DOI is normally a reference to a single specific document/file.   This feature is important for repeatability, you need the exact version used.   However software is constantly changing so there is value in having a DOI for software project that isn't tied to a specific version when you need a general reference to the project.   Zenodo supports this with a DOI that is created for the software project and a DOI that is for each release.   The general DOI will take you to the latest version and previous versions are shown in a side panel.
 
-A feature of Zenodo is providing a DOI badge that can be included in your readme files, web pages etc.  Users clicking on the badge will be directed to the Zenodo page for the project.  To get a link to the badge, click on the badge on the Zenodo page for your code:
+A feature of Zenodo is providing a DOI badge that can be included in your readme files, web pages etc.  Users clicking on the badge will be directed to the Zenodo page for the project.  To get a link to the badge for inclusion in other documents, click on the badge on the Zenodo page for your code:
 
 <img src="../img/code-zenodo-doi-badge-select.png" align="center"><br>
 
@@ -44,19 +44,23 @@ A popup should come up with a list of link options for markdown, HTML, etc.  For
 
 <img src="../img/code-zenodo-doi-badge-link-options.png" align="center"><br>
 
-You can get a badge for the general DOI or for a specific release.   
+You can get a badge for the general DOI or for a specific release.
 
 <h3>Setting up DOE CODE</h3>
 
-TODO
+An high level overview of DOE CODE is avaialable in this video : https://www.youtube.com/watch?v=NKo0U92PXzA
 
-Provide a walk-through of DOE CODE submission.
+A tutorial on setting up a project is avialable on the IDEAS-Watersheds software page :  https://docs.google.com/presentation/d/1DgVAqFkQiuD-03XJy5GqDxNsYr7Robdl/edit?usp=sharing&ouid=111484267752678144523&rtpof=true&sd=true
 
-If using a public repository DOE CODE will auto populate many of the meta-data fields from the repository.
+If your are using a public repository DOE CODE will auto populate many of the meta-data fields from the repository.
+
+Longest step for initial setup was editing the contributors section.  DOE-CODE imports the usernames from GitHub but that didn't seem super useful.   On ParFlow we did some manual editing of the auto-imported to fill out full names and institions when known.
+
+
 
 Questions:
 
-Thought it was possible to upload a tarball of software to DOE code.  Initial browsing of Submit New Software Project forms, didn't see how this was done.
+SGS - Thought it was possible to upload a tarball of software to DOE code.  Initial browsing of Submit New Software Project forms, didn't see how this was done.
 
 DOE CODE FAQ link https://www.osti.gov/doecode/faq
 
@@ -64,15 +68,15 @@ Link to Software best practices seminar with DOC CODE staff?
 
 <h3>Updating DOE CODE</h3>
 
-TODO add some figures here.
+TODO add some figures here?
 
-TODO ParFlow just did this for first time.  Add in anything learned from doing this process.
+For the ParFlow project the following steps are used updating DOE CODE.  ParFlow is using Zenodo to automatically generate the DOI so updating is simply making a new version on DOE CODE using the Zenodo generated DOI.   If you do not have a DOI, DOE CODE can generate one for you.
 
 - Go got DOE CODE.
 
 - Go to the "Manage My Projects" page.
 
-- Select the Make Version / New button on the project to release.  
+- Select the Make Version / New button on the project to release.
 
 - In Product Description update the version number
 
