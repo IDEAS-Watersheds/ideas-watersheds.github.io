@@ -13,6 +13,9 @@ hero_height: is_fullheight
 
 ## 2020
 
+
+[Recordings](https://github.com/IDEAS-Watersheds/best-practices-seminar#2020)
+
 | Date      |   Presenter                            | Title and Topic Description                    |
 |:----------|:---------------------------------------|:-----------------------------------------------|
 | Jan 15    | Steve Smith                            | Debugging Best Practices |

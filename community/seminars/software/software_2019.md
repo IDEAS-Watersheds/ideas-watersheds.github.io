@@ -13,6 +13,8 @@ hero_height: is_fullheight
 
 ## 2019
 
+[Recordings](https://github.com/IDEAS-Watersheds/best-practices-seminar#2019)
+
 | Date      |   Presenter                            | Title and Topic Description                    |
 |:----------|:---------------------------------------|:-----------------------------------------------|
 | Sep 9    | Steve Smith                            | Introduction & Kick-Off |
