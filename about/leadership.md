@@ -18,11 +18,6 @@ IDEAS-Watersheds brings together efforts across multiple labs and universities.
 <em>Los Alamos National Laboratory</em></td>
 </tr>
 <tr>
-<td><img class="alignleft" src="../img/photos/njeffery2.png" alt="Nicole Jeffery" width="150" height="150"></td>
-<td valign="top"><strong>Nicole Jeffery, Project Coordinator</strong><br />
-<em>Los Alamos National Laboratory</em></td>
-</tr>
-<tr>
 <td><img class="alignleft" src="../img/photos/ssmith.png" alt="Steve Smith" width="150" height="150"></td>
 <td valign="top"><strong>Steve Smith, Software Lead</strong><br />
 (Software Steward)<br />
@@ -68,6 +63,10 @@ IDEAS-Watersheds brings together efforts across multiple labs and universities.
 <td><img class="alignleft" src="../img/photos/ghammond.png" alt="Glenn Hammond" width="150" height="150"></td>
 <td valign="top"><strong>Glenn Hammond, Software Steward</strong><br />
 <em>University of Arizona</em></td>
+</tr>
+<tr>
+<td><strong>Project Coordinator</strong><br />
+<em>Position Open</em></td>
 </tr>
 </tbody>
 </table>
