@@ -9,242 +9,237 @@ hero_height: is_fullheight
 
 <h1>IDEAS-Watersheds Team Members</h1>
 
-<div style="padding-block: 20px;">
-<h3>LBNL Watershed Function SFA (LBNL)</h3>
+<style>
+    .wrapper {
+        display:grid;
+        grid-template-columns: 19% 19% 19% 19% 19%;
+        grid-gap: 1em;
+    }
+    .wrapper > div{
+        background:#eee;
+        padding: 1em;
+    }
+    .wrapper > div:nth-child(odd){
+        background:#ddd;
+    }
+</style>
 
-<table style="width:100%"><tr>
+<body>
+	<h2>LBNL Watershed Function SFA (LBNL)</h2>
+    <div class = "wrapper">
+        
+        <div><center>
+        <img src="../img/photos/smolins.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Seri Molins</h3>
+        <em>Lead</em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/smolins.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Seri Molins</strong><br/>
-<em>Lead</em>
-</td>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Zexuan Xu</h3>
+        <em></em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Zexuan Xu</strong><br/>
-<a href="https://github.com/zexuanxu" > <i class="fab fa-github" style="font-size:24px"></i></a>
-</td>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Erica Siirila-Woodburn</h3>
+        <em></em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Erica Siirila-Woodburn</strong><br/>
-<em></em>
-</td>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Dipankar Dwivedi</h3>
+        <em></em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Dipankar Dwivedi</strong><br/>
-<a href="https://github.com/ddwivedi08" > <i class="fab fa-github" style="font-size:24px"></i></a>
-</td>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Andrew Graus</h3>
+        <em></em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Andrew Graus</strong><br/>
-<em></em>
-</td>
+    </div>
 
+	<h2>Watershed Dynamics and Evolution (WaDE) SFA (ORNL)</h2>
+   
+    <div class = "wrapper">
 
-</tr></table></div>
+    	<div><center>
+        <img src="../img/photos/spainter.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Scott Painter</h3>
+        <em>Lead</em> 
+        </center></div>
 
-<div style="padding-block: 20px;">
-<h3>Watershed Dynamics and Evolution (WaDE) SFA (ORNL)</h3>
-<table style="width:100%"><tr>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Saubhagya Rathore</h3>
+        <em></em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/spainter.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Scott Painter</strong><br/>
-<em>Lead</em>
-</td>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Jesus Gomez Velez</h3>
+        <em></em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Saubhagya Rathore</strong><br/>
-<a href="https://github.com/saubhagya-gatech" > <i class="fab fa-github" style="font-size:24px"></i></a>
-</td>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Phong Le</h3>
+        <em></em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Jesus Gomez Velez
-</strong><br/>
-<em></em>
-</td>
+    </div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Phong Le</strong><br/>
-<em></em>
-</td>
+    <h2>River Corridor SFA (PNNL)</h2>
+   
+    <div class = "wrapper">
 
-<td style="width:20%;text-align:center;"></td>
+    	<div><center>
+        <img src="../img/photos/xchen.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Xingyuan Chen</h3>
+        <em>Lead</em> 
+        </center></div>
 
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Zhi Li</h3>
+        <em></em> 
+        </center></div>
 
-</tr></table></div>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Katie Muller</h3>
+        <em></em> 
+        </center></div>
 
-<div style="padding-block: 20px;">
-<h3>River Corridor SFA (PNNL)</h3>
-<table style="width:100%"><tr>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Tasneem Ahmadullah</h3>
+        <em></em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/xchen.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Xingyuan Chen</strong><br/>
-<em>Lead</em>
-</td>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Mingjie Shi</h3>
+        <em></em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Zhi Li</strong><br/>
-<em></em>
-</td>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Hyun-Seob Song</h3>
+        <em></em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Katie Muller
-</strong><br/>
-<em></em>
-</td>
+    </div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Tasneem Ahmadullah</strong><br/>
-<em></em>
-</td>
+    <h2>Land Model Interface (LMI)</h2>
+   
+    <div class = "wrapper">
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Mingjie Shi</strong><br/>
-<em></em>
-</td></tr>
+    	<div><center>
+        <img src="../img/photos/dmoulton.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>David Moulton</h3>
+        <em>Lead</em> 
+        </center></div>
 
-<tr style="border-top: none;">
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Hyun-Seob Song</strong><br/>
-<em></em>
-</td>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Adam Atchley</h3>
+        <em></em> 
+        </center></div>
 
-</tr></table></div>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Erica Siirila-Woodburn</h3>
+        <em></em> 
+        </center></div>
 
-<div style="padding-block: 20px;">
-<h3>Land Model Interface (LMI)</h3>
+        <div><center>
+        <img src="../img/photos/ecoon.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Ethan Coon</h3>
+        <em></em> 
+        </center></div>
 
-<table style="width:100%"><tr>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Rich Fiorella</h3>
+        <em></em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/dmoulton.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>David Moulton</strong><br/>
-<em>Lead</em>
-</td>
+    </div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Adam Atchley</strong><br/>
-<em></em>
-</td>
+    <h2>Integrated Hydrologic Simulation Infrastructure (IHSI)</h2>
+   
+    <div class = "wrapper">
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Erica Siirila-Woodburn</strong><br/>
-<em></em>
-</td>
+    	<div><center>
+        <img src="../img/photos/lcondon.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Laura Condon</h3>
+        <em>Lead</em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/ecoon.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Ethan Coon</strong><br/>
-<em></em>
-</td>
+        <div><center>
+        <img src="../img/photos/rmaxwell.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Reed Maxwell</h3>
+        <em>Lead</em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Rich Fiorella</strong><br/>
-<em></em>
-</td>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>George Artavanis</h3>
+        <em></em> 
+        </center></div>
 
-</tr></table></div>
+    </div>
 
-<div style="padding-block: 20px;">
-<h3>Integrated Hydrologic Simulation Infrastructure (IHSI)</h3>
+    <h2>Software Ecosystem</h2>
+   
+    <div class = "wrapper">
 
-<table style="width:100%"><tr>
+    	<div><center>
+        <img src="../img/photos/dmoulton.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>David Moulton</h3>
+        <em>Lead</em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/rmaxwell.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Reed Maxwell</strong><br/>
-<em>Lead</em>
-</td>
+        <div><center>
+        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Rich Fiorella</h3>
+        <em></em> 
+        </center></div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/lcondon.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>Laura Condon</strong><br/>
-<em>Lead</em>
-</td>
+    </div>
 
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px;"><br/>
-<strong>George Artavanis</strong><br/>
-<em></em>
-</td>
+    <h2>Software Stewards</h2>
+   
+    <div class = "wrapper">
 
-<td style="width:20%;text-align:center;border: none;"></td>
-<td style="width:20%;text-align:center;border: none;"></td>
+    	<div><center>
+        <img src="../img/photos/ssmith.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Steve Smith</h3>
+        <em>Lead</em> 
+        </center></div>
 
+        <div><center>
+        <img src="../img/photos/ecoon.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Ethan Coon</h3>
+        <em></em> 
+        </center></div>
 
-</tr></table></div>
+        <div><center>
+        <img src="../img/photos/ghammond.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Glenn Hammond</h3>
+        <em></em> 
+        </center></div>
 
-<div style="padding-block: 20px;">
-<h3>Software Ecosystem</h3>
+        <div><center>
+        <img src="../img/photos/smolins.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Sergi Molins</h3>
+        <em></em> 
+        </center></div>
 
-<table style="width:100%"><tr>
-
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/dmoulton.png" alt="Default Image" width="150" height="150"><br/>
-<strong>David Moulton</strong><br/>
-<em>Lead</em>
-</td>
-
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/Default_image.png" alt="Default Image" width="150" height="150"><br/>
-<strong>Rich Fiorella</strong><br/>
-<em></em>
-</td>
-
-<td style="width:20%;text-align:center;border: none;"></td>
-<td style="width:20%;text-align:center;border: none;"></td>
-<td style="width:20%;text-align:center;border: none;"></td>
-
-</tr></table></div>
-
-<div style="padding-block: 20px;">
-<h3>Software Stewards</h3>
-
-<table style="width:100%"><tr>
-
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/ssmith.png" alt="Default Image" width="150" height="150"><br/>
-<strong>Steve Smith</strong><br/>
-<em>Lead</em>
-</td>
-
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/ecoon.png" alt="Default Image" style="width:150px;height:150px;" ><br/>
-<strong>Ethan Coon</strong><br/>
-<em></em>
-</td>
-
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/ghammond.png" alt="Default Image" width="150" height="150"><br/>
-<strong>Glenn Hammond</strong><br/>
-<em></em>
-</td>
-
-<td style="width:20%;text-align:center;border: none;">
-<img src="../img/photos/smolins.png" alt="Default Image" width="150" height="150"><br/>
-<strong>Sergi Molins</strong><br/>
-<em></em>
-</td>
-
-<td style="width:20%;text-align:center;border: none;"></td>
-</tr></table></div>
+    </div>
+</body>
 
 <div style="padding-block: 20px;"><h3>Team Alumni</h3>
 Dave Gochis (NCAR), Kewei Chen (PNNL), Joe Beisman (LANL), Ilhan Ozgen (LBNL), Ahmad Jan (ORNL), Peishi Jiang (PNNL), Pin Shuai   (PNNL), Xuehang Song (PNNL), Hoang Tran  (Colorado School of Mines), Mary Michael (Colorado School of Mines), Jun Zhang  (University of Arizona), Jen Stayeart (University of Arizona), Daniel Livingston (LANL), Angelic Arzola Roig (LANL) 
