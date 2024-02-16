@@ -35,25 +35,25 @@ hero_height: is_fullheight
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/zxu.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Zexuan Xu</h3>
         <em></em> 
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/ewoodburn.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Erica Siirila-Woodburn</h3>
         <em></em> 
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/ddwivedi.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Dipankar Dwivedi</h3>
         <em></em> 
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/agraus.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Andrew Graus</h3>
         <em></em> 
         </center></div>
@@ -71,19 +71,19 @@ hero_height: is_fullheight
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/srathore.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Saubhagya Rathore</h3>
         <em></em> 
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/jvelez.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Jesus Gomez Velez</h3>
         <em></em> 
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/ple.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Phong Le</h3>
         <em></em> 
         </center></div>
@@ -101,31 +101,31 @@ hero_height: is_fullheight
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/zli.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Zhi Li</h3>
         <em></em> 
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/kmuller.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Katie Muller</h3>
         <em></em> 
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/tahmadullah.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Tasneem Ahmadullah</h3>
         <em></em> 
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/mshi.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Mingjie Shi</h3>
         <em></em> 
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/hsong.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Hyun-Seob Song</h3>
         <em></em> 
         </center></div>
@@ -143,13 +143,13 @@ hero_height: is_fullheight
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/aatchley.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Adam Atchley</h3>
         <em></em> 
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/ewoodburn.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Erica Siirila-Woodburn</h3>
         <em></em> 
         </center></div>
@@ -161,7 +161,7 @@ hero_height: is_fullheight
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/rfiorella.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Rich Fiorella</h3>
         <em></em> 
         </center></div>
@@ -185,7 +185,7 @@ hero_height: is_fullheight
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/gartavanis.png" alt="Default Image" style="width:150px;height:150px">
         <h3>George Artavanis</h3>
         <em></em> 
         </center></div>
@@ -203,7 +203,7 @@ hero_height: is_fullheight
         </center></div>
 
         <div><center>
-        <img src="../img/photos/Default_image.png" alt="Default Image" style="width:150px;height:150px">
+        <img src="../img/photos/rfiorella.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Rich Fiorella</h3>
         <em></em> 
         </center></div>
