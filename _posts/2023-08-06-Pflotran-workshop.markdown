@@ -3,6 +3,7 @@ layout: post
 title:  PFLOTRAN Reactive Transport Short Course
 date:   2023-08-28
 categories: highlight
+author: N. Jeffery
 ---
 A new short course, **PFLOTRAN Reactive Transport with Sophisticated Reaction Networks: Hands-On Experience with the PFLOTRAN Reaction Sandbox**, will take place Nov 6-9 at Pacific Northwest National Laboratory, Richland, WA.
 
