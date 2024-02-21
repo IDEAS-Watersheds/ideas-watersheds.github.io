@@ -13,6 +13,9 @@ hero_height: is_fullheight
 
 ## 2022
 
+[Recordings](https://github.com/IDEAS-Watersheds/best-practices-seminar#2022)
+
+
 | Date      |   Presenter                            | Title and Topic Description                    |
 |:----------|:---------------------------------------|:-----------------------------------------------|
 | Jun 20    | Steve Smith, LLNL; Giacomo Capodaglio, LANL  | Updates on Spack for ATS and ParFlow/Ecoslim – open discussion on next steps |

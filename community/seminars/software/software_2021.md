@@ -13,6 +13,8 @@ hero_height: is_fullheight
 
 ## 2021
 
+[Recordings](https://github.com/IDEAS-Watersheds/best-practices-seminar#2021)
+
 | Date      |   Presenter                            | Title and Topic Description                    |
 |:----------|:---------------------------------------|:-----------------------------------------------|
 | Feb 5     | Ian Lee, LLNL                          | Open Source Software and discussion |

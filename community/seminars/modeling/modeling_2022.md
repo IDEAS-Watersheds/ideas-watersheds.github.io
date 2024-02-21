@@ -13,6 +13,8 @@ hero_height: is_fullheight
 
 ## 2022
 
+[Recordings](https://github.com/IDEAS-Watersheds/best-practices-seminar#2022)
+
 | Date        |  Presenter                             | Title and Topic Description                    |
 |:------------|:---------------------------------------|:-----------------------------------------------|
 | Jun 13      | Scott Painter, ORNL                    | Projections of permafrost thaw and subsidence using a multiscale model from IDEAS-Classic |

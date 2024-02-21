@@ -13,6 +13,8 @@ hero_height: is_fullheight
 
 ## 2021
 
+[Recordings](https://github.com/IDEAS-Watersheds/best-practices-seminar#2021)
+
 | Date        |  Presenter                             | Title and Topic Description                    |
 |:------------|:---------------------------------------|:-----------------------------------------------|
 | Jan 27      | Jesus Gomez-Velez, Vanderbilt University | Status on Network with Exchange and Subsurface Storage (NEXSS) model |
