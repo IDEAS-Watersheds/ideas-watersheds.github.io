@@ -15,3 +15,9 @@ hero_height: is_fullheight
 | Date        |  Presenter                             | Title and Topic Description                    |
 |:------------|:---------------------------------------|:-----------------------------------------------|
 | May 2      | Zhi Li, PNNL                     | Watershed hydrologic and biogeochemical responses to wildfires in the Pacific Northwest |
+|Jun 13| | Canceled|
+| Jun 27| Sergi Molins, LBNL | Internal |
+|Aug 15| Phong| |
+| Sep 12| Saubhagya| A Stream-aligned Mixed/Arbitrary Polyhedral Meshing Strategy for Integrated Surface/Subsurface Hydrological Model|
+|Oct 10| Xexuan Xu| ER and LTR IHM|
+|Nov 14| Hoori Ajami| Model spin up and quasi-steady state conditions|
