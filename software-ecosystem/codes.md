@@ -7,10 +7,14 @@ hero_height: is_fullheight
 
 ---
 <style>
+    
     .wrapper {
         display:grid;
-        grid-template-columns: 25% 25% 25% 25%;
-        grid-gap: 1em;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        max-width: 1250px;
+        margin: 1px auto;
+        padding: 20px;
+        gap: 20px;
     }
     .wrapper > div{
         background:#eee;
@@ -19,43 +23,48 @@ hero_height: is_fullheight
     .wrapper > div:nth-child(odd){
         background:#ddd;
     }
+    .wrapper img {
+        max-height: 100px; /* Adjust the height value as needed */
+    }
+    
+
 </style>
 <body>
     <div class = "wrapper">
         
         <div><center>
-        <h3><a href="/software-ecosystem/codes/alquimia"> Alquimia </a></h3>
-        <img src="../../img/code_alquimia.png" align="center"><br>
-        A biogeochemistry Application Program Interface and wrapper library. 
+        <img src="../../img/code_alquimia.png" align="center"><br><br><br>
+        <strong><a href="/software-ecosystem/codes/alquimia"> Alquimia </a></strong><br>
+        <div>A biogeochemistry Application Program Interface and wrapper library.</div>
         </center></div>
 
         <div><center>
-        <h3><a href="/software-ecosystem/codes/amanzi"> Amanzi  </a></h3>
-        <img src="../../img/code_amanzi.png" align="center"><br>
+        <img src="../../img/code_amanzi.png" align="center"><br><br><br>
+        <strong><a href="/software-ecosystem/codes/amanzi"> Amanzi  </a></strong><br>
         A flexible and extensible flow and reactive transport simulation capability for environmental applications.
         </center></div>
 
         <div><center>
-        <h3><a href="/software-ecosystem/codes/ats"> ATS  </a></h3>
-        <img src="../../img/code_ats.png" align="center"><br>
+        <img src="../../img/code_ats.png" align="center"><br><br><br>
+        <strong><a href="/software-ecosystem/codes/ats"> ATS  </a></strong><br>
         Advanced Terrestrial Simulator (ATS) - for solving ecosystem-based, integrated, distributed hydrology.
         </center></div>
 
-        <div><center>
-        <h3><a href="/software-ecosystem/codes/crunchflow"> CrunchFlow   </a></h3>
-        <img src="../../img/code_crunchflow.png" align="center"><br>
+        <div><center><br>
+        <img src="../../img/code_crunchflow.png" align="center"><br><br><br>
+        <strong><a href="/software-ecosystem/codes/crunchflow"> CrunchFlow </a></strong><br>
         An open-source software package for simulating reactive flow and transport.
         </center></div>
 
-        <div><center>
-        <h3><a href="/software-ecosystem/codes/ecoslim"> EcoSLIM  </a></h3>
-        <img src="../../img/code_ecoslim.png" align="center"><br>
+        <div><center><br>
+        <img src="../../img/code_ecoslim.png" align="center"><br><br><br>
+        <strong><a href="/software-ecosystem/codes/ecoslim"> EcoSLIM  </a></strong><br>
         A Lagrangian particle-tracking model designed to operate with integrated hydrologic models.
         </center></div>
 
-        <div><center>
-        <h3><a href="/software-ecosystem/codes/parflow"> ParFlow </a></h3>
-        <img src="../../img/code_parflow.png" align="center"><br>
+        <div><center><br>
+        <img src="../../img/code_parflow.png" align="center"><br><br><br>
+        <strong><a href="/software-ecosystem/codes/parflow"> ParFlow </a></strong><br>
         The integrated watershed model, solves saturated and variably saturated flow in three dimensions.
         </center></div>
 
@@ -64,9 +73,10 @@ hero_height: is_fullheight
         ParFlow coupled to the land-surface model CLM.
         </center></div> -->
         
-        <div><center>
-        <h3><a href="/software-ecosystem/codes/pflotran"> PFLOTRAN </a></h3>
-        <img src="../../img/code_pflotran.png" align="center"><br>
+
+        <div><center><br>
+        <img src="../../img/code_pflotran.png" align="center"><br><br><br><br>
+        <strong><a href="/software-ecosystem/codes/pflotran"> PFLOTRAN </a></strong><br>
         An open-source, state-of-the-art massively parallel subsurface flow and reactive transport code.
         </center></div>
     </div>

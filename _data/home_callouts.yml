@@ -1,12 +1,12 @@
 style: is-light
 height: is-small
 items:
-  - title: Training
+  - title: Training & Outreach
     description: >
       Latest software and HPC training
     icon: fa-user-circle
     call_to_action_name: Learn More
-    call_to_action_link: /resources/events
+    call_to_action_link: /resources/outreach
   - title: Software Ecosystem
     description: >
       Community driven software
