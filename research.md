@@ -2,7 +2,7 @@
 layout: page_research
 title: Research Activities
 permalink: /research/
-hero_image: /img/hero_research.jpg
+hero_image: /img/IDEAS-Watersheds-banner.jpg
 hero_height: is_fullheight
 
 ---
@@ -66,8 +66,4 @@ IDEAS–Watersheds is organized around three partnership activities and four sha
 # Scientific and Community Impact
 
 The IDEAS–Watersheds project has made significant progress in developing a flexible scientific software ecosystem to accelerate scientific discovery and understanding in environmental systems, including completion of open-source licensing and open access to source code repositories. In addition, code teams are adopting agile methodologies and developer workflows, improving sustainability while enhancing capabilities.
-
-[IDEAS-Classic](https://ideas-productivity.org/ideas-classic)
-<br>[IDEAS](https://ideas-productivity.org)
-
 

@@ -6,8 +6,6 @@
       link: /about/leadership
     - name: Team Members
       link: /about/team
-    - name: IDEAS-Productivity
-      link: https://ideas-productivity.org/
     - name: SFAs
       link: /about/sfa
 - name: Research Activities
@@ -28,5 +26,5 @@
       link: /resources/outreach
     - name: IDEAS-Watershed Brochure
       link: https://ess.science.energy.gov/wp-content/uploads/2022/05/IDEAS_Flyer.pdf
-    - name: HPC Best Practices (on IDEAS-ECP website)
+    - name: HPC Best Practices (EXTERNAL)
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars/

@@ -13,7 +13,7 @@ The IDEAS-Watersheds project (co-)organizes a variety of workshops and trainings
 
 * Stay tuned, more to follow soon. 
 
-# Past Activities
+# Current and Ongoing Activities
 
 ### Best Practices Seminars
 
@@ -22,7 +22,9 @@ The IDEAS-Watersheds project hosts a variey of concurrent series each month. The
 * [Plenary Series](plenary.md) featuring our Nation’s watershed science with the aim of furthering a robust, predictive understanding of how watersheds function and respond to perturbations as hydrobiogeochemical systems
 * [Modeling Case Studies](seminars.md) raise awareness of the challenges and approaches to process-based modeling, sharing our experiences and stimulating new collaborations on synergistic topics across the project.
 * [Software Best Pactices](seminars.md) cover topics relevant to both workflow tools and simulation codes including, version control, continuous integration and testing, parallel debugging and visualization.
+* Office Hours are an informal meeting with Software Stewards to address questions about the simulation codes and workflows that are supported under IDEAS-Watersheds
 
+# Past Activities
 
 ### Short Courses
 

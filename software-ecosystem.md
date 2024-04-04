@@ -42,13 +42,13 @@ IDEAS-Watersheds team members lead development on [**Primary Codes**](/software-
         </div>
     <div class="col2">
         <ul><br><br><br>
-        <li> <b><a href="https://ideas-watersheds.github.io/software-ecosystem/workflowtools/">Workflow Tools</a></b> support data collection and preprocessing, model setup, ensembles of simulations, post processing and analysis.</li>
+        <li> <b>Workflow Tools</b> support data collection and preprocessing, model setup, ensembles of simulations, post processing and analysis.</li>
         <li> <b>Codes and Interface Libraries</b> support flexible mechanistic and multi-scale simulations of coupled hydro-biogechemical processes.</li>
-        <li><b> <a href="https://ideas-watersheds.github.io/software-ecosystem/codes/">Primary Codes</a> and Workflow Tools:</b> Members of our team contribute to design and development.</li>
+        <li><b> <a href="/software-ecosystem/codes/">Primary Codes</a> and <a href="/software-ecosystem/workflowtools/">Workflow Tools:</a></b> Members of our team contribute to design and development.</li>
         <li> <b>Third Party Codes and Workflow Tools:</b> We are users, development is led outside IDEAS-Watersheds.</li>
         </ul>
     </div>
 </div>
 </body>
 
-The <b><a href="/research/infrastructure">Software Stewardship Activity</a></b> ensures sustainability of the software ecosystem and focuses on support for the primary [**Workflow Tools**](/software-ecosystem/workflowtools.md) and [**Codes**](/software-ecosystem/codes.md).  This approach helps researchers accelerate watershed science by providing well tested and documented new or enhanced capabilities, while supporting and promoting best practices in reproducible, transparent and transferable modeling and simulation.
+The <b><a href="/research/infrastructure">Software Stewardship Activity</a></b> ensures sustainability of the software ecosystem and focuses on support for the primary Workflow Tools and Codes.  This approach helps researchers accelerate watershed science by providing well tested and documented new or enhanced capabilities, while supporting and promoting best practices in reproducible, transparent and transferable modeling and simulation.

@@ -31,7 +31,7 @@ hero_height: is_fullheight
         
         <div><center>
         <img src="../img/photos/smolins.png" alt="Default Image" style="width:150px;height:150px">
-        <h3>Seri Molins</h3>
+        <h3>Sergi Molins</h3>
         <em>Lead</em> 
         </center></div>
 

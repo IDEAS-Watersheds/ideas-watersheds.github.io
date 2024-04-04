@@ -49,9 +49,3 @@ In the next three years, IDEAS-Watersheds will focus on development and demonstr
 The IDEAS project has adopted a more intentional approach to interoperability by advancing formal interfaces to key component capability. The adoption of interoperability as a design philosophy has the potential to significantly reduce duplication of effort and improve scientific productivity for computational environmental scientists.
 
 The IDEAS project supports community collaboration model centered around an “ecosystem” of interoperable components that could be used to build or extend scientific applications. This collaboration model recognizes that existing scientific capabilities currently reside in a small number of existing integrated codes. While each of these integrated or “host” codes has a significant range of capability, none contains the full range of scientific modeling capabilities needed for a comprehensive watershed system perspective. It is thus advantageous to use codes in combination, taking representations of different processes from different codes. 
-
-
-[IDEAS-Classic](https://ideas-productivity.org/ideas-classic/)<br>
-[IDEAS](https://ideas-productivity.org/)
-
-
