@@ -11,7 +11,9 @@ The IDEAS-Watersheds project (co-)organizes a variety of workshops and trainings
 
 # Upcoming Activities
 
-* Stay tuned, more to follow soon. 
+* ParFlow short course coming at ModFlow
+* EES PI Meeting
+* **Stay tuned, more to follow soon.** 
 
 # Current and Ongoing Activities
 
