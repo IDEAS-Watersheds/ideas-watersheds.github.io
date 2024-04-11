@@ -2,7 +2,7 @@
 layout: page_resources
 title: IDEAS-Watersheds Seminars (Internal)
 permalink: /resources/seminars
-hero_image: /img/black.jpg
+hero_image: /img/hero_logo.jpg
 hero_height: is_fullheight
 
 ---
@@ -32,3 +32,8 @@ Meetings on Software Development Best Practices cover topics relevant to both wo
 [ [2019](seminars/software/software_2019.md) ]
 
 
+## Office Hours
+
+Office Hours are an informal meeting with Software Stewards to address questions about the simulation codes and workflows that are supported under IDEAS-Watersheds
+
+[ [2024](seminars/office/office_2024.md) ]

@@ -3,7 +3,7 @@ layout: page_research
 title: Watershed Function SFA 
 permalink: /research/lbnl-sfa
 subtitle: East River User Case (LBNL)
-hero_image: /../img/hero_research.jpg
+hero_image: /img/IDEAS-Watersheds-banner.jpg
 hero_height: is_fullheight
 gallery: gallery_lbnl
 show_sidebar: false

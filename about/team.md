@@ -31,7 +31,7 @@ hero_height: is_fullheight
         
         <div><center>
         <img src="../img/photos/smolins.png" alt="Default Image" style="width:150px;height:150px">
-        <h3>Seri Molins</h3>
+        <h3>Sergi Molins</h3>
         <em>Lead</em> 
         </center></div>
 
@@ -134,12 +134,6 @@ hero_height: is_fullheight
         <div><center>
         <img src="../img/photos/hsong.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Hyun-Seob Song</h3>
-        <em></em> 
-        </center></div>
-
-        <div><center>
-        <img src="../img/photos/fguerrero.png" alt="Default Image" style="width:150px;height:150px">
-        <h3>Francisco Guerrero</h3>
         <em></em> 
         </center></div>
 
@@ -294,5 +288,5 @@ hero_height: is_fullheight
 </body>
 
 <div style="padding-block: 20px;"><h3>Team Alumni</h3>
-Dave Gochis (NCAR), Kewei Chen (PNNL), Joe Beisman (LANL), Ilhan Ozgen (LBNL), Ahmad Jan (ORNL), Peishi Jiang (PNNL), Pin Shuai   (PNNL), Xuehang Song (PNNL), Hoang Tran  (Colorado School of Mines), Mary Michael (Colorado School of Mines), Jun Zhang  (University of Arizona), Jen Stayeart (University of Arizona), Daniel Livingston (LANL), Angelic Arzola Roig (LANL), Chen Yang (Princeton), Nicole Jeffery (LANL)
+Dave Gochis (NCAR), Kewei Chen (PNNL), Joe Beisman (LANL), Ilhan Ozgen (LBNL), Ahmad Jan (ORNL), Peishi Jiang (PNNL), Pin Shuai   (PNNL), Xuehang Song (PNNL), Hoang Tran  (Colorado School of Mines), Mary Michael (Colorado School of Mines), Jun Zhang  (University of Arizona), Jen Stayeart (University of Arizona), Daniel Livingston (LANL), Angelic Arzola Roig (LANL), Chen Yang (Princeton), Nicole Jeffery (LANL), Francisco Guerrero (PNNL)
 </div>

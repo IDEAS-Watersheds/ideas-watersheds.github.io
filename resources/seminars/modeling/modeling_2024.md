@@ -2,7 +2,7 @@
 layout: page_resources
 title: IDEAS-Watersheds Seminars
 permalink: /resources/seminars/modeling_2024
-hero_image: /img/black.jpg
+hero_image: /img/hero_logo.jpg
 hero_height: is_fullheight
 
 ---
@@ -15,4 +15,5 @@ hero_height: is_fullheight
 
 | Date        |  Presenter                             | Title and Topic Description                    |
 |:------------|:---------------------------------------|:-----------------------------------------------|
+| March 26 | Hoori Ajami | How Do Uncertainties in Initial Conditions and Climate Forcing Influence Integrated Hydrologic Model Simulations Across Mountain-Valley Aquifer Systems? |
 | March 19 | Jinyun Tang | EcoSIM: a modular code to explicitly simulate plant-soil-microbial interactions for terrestrial ecosystems |

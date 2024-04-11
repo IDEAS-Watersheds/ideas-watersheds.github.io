@@ -12,12 +12,12 @@ items:
       Community driven software
     icon: fa-download
     call_to_action_name: Learn More
-    call_to_action_link: /software-ecosystem/
-  - title: Seminars
+    call_to_action_link: /software-ecosystem
+  - title: Plenaries
     description: >
-      IDEAS-Watersheds discussions
+      IDEAS-Watersheds Plenary Series
     icon: fa-comments
     call_to_action_name: Learn More
-    call_to_action_link: /resources/seminars/
+    call_to_action_link: /resources/plenary
 
 #https://aksakalli.github.io/jekyll-doc-theme/docs/font-awesome/

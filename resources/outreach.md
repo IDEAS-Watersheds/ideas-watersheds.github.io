@@ -2,7 +2,7 @@
 layout: page_resources
 title: Training and Outreach
 permalink: /resources/outreach
-hero_image: /img/black.jpg
+hero_image: /img/hero_logo.jpg
 hero_height: is_fullheight
 
 ---
@@ -11,9 +11,11 @@ The IDEAS-Watersheds project (co-)organizes a variety of workshops and trainings
 
 # Upcoming Activities
 
-* Stay tuned, more to follow soon. 
+* ParFlow short course coming at ModFlow
+* EES PI Meeting April 16-17, 2024
+* **Stay tuned, more to follow soon.** 
 
-# Past Activities
+# Current and Ongoing Activities
 
 ### Best Practices Seminars
 
@@ -22,7 +24,9 @@ The IDEAS-Watersheds project hosts a variey of concurrent series each month. The
 * [Plenary Series](plenary.md) featuring our Nation’s watershed science with the aim of furthering a robust, predictive understanding of how watersheds function and respond to perturbations as hydrobiogeochemical systems
 * [Modeling Case Studies](seminars.md) raise awareness of the challenges and approaches to process-based modeling, sharing our experiences and stimulating new collaborations on synergistic topics across the project.
 * [Software Best Pactices](seminars.md) cover topics relevant to both workflow tools and simulation codes including, version control, continuous integration and testing, parallel debugging and visualization.
+* [Office Hours](seminars.md) are an informal meeting with Software Stewards to address questions about the simulation codes and workflows that are supported under IDEAS-Watersheds
 
+# Past Activities
 
 ### Short Courses
 

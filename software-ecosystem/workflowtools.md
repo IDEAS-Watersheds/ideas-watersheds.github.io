@@ -1,8 +1,8 @@
 ---
 layout: page_software
 title: IDEAS Watersheds Workflow Tools
-permalink: /software-ecosystem/workflowtools/
-hero_image: /../img/black.jpg
+permalink: /software-ecosystem/workflowtools
+hero_image: /img/hero_logo.jpg
 hero_height: is_fullheight
 
 ---
@@ -42,7 +42,7 @@ hero_height: is_fullheight
         </center></div>
 
         <div><center><br>
-        <img src="../../img/IDEAS_watershed-logo_blueText.png" align="center"><br><br><br>
+        <img src="../../img/code_watershedworkflow.png" align="center"><br><br><br>
         <strong><a href="/software-ecosystem/codes/watershedworkflow"> Watershed Workflow </a></strong><br>
         Watershed Workflow is a chain of tools for generating meshes and other data inputs for hyper-resolution hydrology.
         </center></div>
