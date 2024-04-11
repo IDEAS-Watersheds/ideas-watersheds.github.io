@@ -18,6 +18,6 @@ items:
       IDEAS-Watersheds discussions
     icon: fa-comments
     call_to_action_name: Learn More
-    call_to_action_link: /resources/seminars/
+    call_to_action_link: /resources/seminars
 
 #https://aksakalli.github.io/jekyll-doc-theme/docs/font-awesome/
