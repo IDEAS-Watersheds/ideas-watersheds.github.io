@@ -45,14 +45,6 @@ Sustainability of the software ecosystem, which includes the overall quality and
       </ul>
 </div><br>
 
-<h6> Land Model Interface </h6><div>
-The need for integrated hydro-terrestrial models that combine coupled surface/subsurface flow (Integrated Hydrology Models - IHMs) with the vegetative and ecosystem processes found in Land Surface Models (LMs) has exploded creating an array of incomplete solutions and fragmentation that is challenging for users. 
-<br>
-        <ul>
-          <li>A key deliverable is a workshop that brings the Integrated Hydrology and Land Surface modeling communities together to chart an effective path forward. </li>
-        </ul>
-</div><br>
-
 <h6> Integrated Hydrologic Simulation Infrastructure (IHSI) </h6><div>
 To accelerate development and evaluation of watershed and regional models we address the need for consistent datasets and tools that can be used across watersheds for modeling water, energy fluxes and transport. 
         <ul>
@@ -61,16 +53,16 @@ To accelerate development and evaluation of watershed and regional models we add
         </ul>
 </div><br>
 
-<h6> Training </h6><div>
+<h6> Land Model Interface </h6>
+The need for integrated hydro-terrestrial models that combine coupled surface/subsurface flow (Integrated Hydrology Models - IHMs) with the vegetative and ecosystem processes found in Land Surface Models (LMs) has exploded creating an array of incomplete solutions and fragmentation that is challenging for users. A key deliverable is a workshop that brings the Integrated Hydrology and Land Surface modeling communities together to chart an effective path forward.<br>
+
+<h6> Training, Community Building and Broader Outreach </h6><div>
 The cohort of early career scientists jointly funded by IDEAS-Watersheds and the SFA Partnerships, as well as early career scientists involved in IHSI and LMI, participate in a variety of collaborative activities, including
       <ul>
         <li> Monthly meetings on <a href="/resources/seminars">Software Development Best Practices</a> cover topics relevant to both workflow tools and simulation codes including, version control, continuous integration and testing, parallel debugging and visualization.</li>
         <li> Monthly meetings on <a href="/resources/seminars">Modeling Case Studies</a> raise awareness of the challenges and approaches to process-based modeling, sharing our experiences and stimulating new collaborations on synergistic topics across the project.</li>
         <li> Short courses for the primary codes are increasingly available online and are expanding to include more material on workflows and coupled simulations, such as ATS-PFLOTRAN.</li>
+        <li>IDEAS-Watersheds supports a wide range of activities, including a leadership role in the ESS Cyberinfrastructure Working groups, community benchmarking and model-intercomparison studies, and interagency collaboration.</li>
       </ul>
-</div><br>
-
-<h6> Community Building and Broader Outreach </h6><div>
-  IDEAS-Watersheds supports a wide range of activities, including a leadership role in the ESS Cyberinfrastructure Working groups, community benchmarking and model-intercomparison studies, and interagency collaboration.</div>
-
-<br><strong><a href="/resources/outreach"> Learn More about our Training and Outreach</a></strong>
+<strong><a href="/resources/outreach"> Learn More about our Training and Outreach</a></strong>
+</div>
