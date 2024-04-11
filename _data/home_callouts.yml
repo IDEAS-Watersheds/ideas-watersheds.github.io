@@ -12,7 +12,7 @@ items:
       Community driven software
     icon: fa-download
     call_to_action_name: Learn More
-    call_to_action_link: /software-ecosystem/
+    call_to_action_link: /software-ecosystem
   - title: Plenaries
     description: >
       IDEAS-Watersheds Plenary Series

@@ -2,7 +2,7 @@
 layout: page_resources
 title: Training and Outreach
 permalink: /resources/outreach
-hero_image: /img/black.jpg
+hero_image: /img/hero_logo.jpg
 hero_height: is_fullheight
 
 ---

@@ -1,14 +1,14 @@
 - name:  About
-  link: /about/
+  link: /about
 - name: Research Activities
-  link: /research/
+  link: /research
 - name: Software Ecosystem
-  link: /software-ecosystem/
+  link: /software-ecosystem
   dropdown:
     - name: IDEAS Watersheds Codes
-      link: /software-ecosystem/codes/
+      link: /software-ecosystem/codes
     - name: IDEAS Watersheds Workflow Tools
-      link: /software-ecosystem/workflowtools/
+      link: /software-ecosystem/workflowtools
     - name: Community Policy
       link: /software-ecosystem/policies
 - name: Publications
@@ -26,4 +26,4 @@
     - name: IDEAS-Watershed Brochure
       link: https://ess.science.energy.gov/wp-content/uploads/2022/05/IDEAS_Flyer.pdf
     - name: HPC Best Practices (EXTERNAL)
-      link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
+      link: https://ideas-productivity.org/events/hpc-best-practices-webinars

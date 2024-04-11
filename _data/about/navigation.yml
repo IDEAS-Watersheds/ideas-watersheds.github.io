@@ -1,6 +1,6 @@
 
 - name:  About
-  link: /about/
+  link: /about
   dropdown:
     - name: Project Leadership
       link: /about/leadership
@@ -9,9 +9,9 @@
     - name: SFAs
       link: /about/sfa
 - name: Research Activities
-  link: /research/
+  link: /research
 - name: Software Ecosystem
-  link: /software-ecosystem/
+  link: /software-ecosystem
 - name: Publications
   link: /publications
 - name: Resources
@@ -27,4 +27,4 @@
     - name: IDEAS-Watershed Brochure
       link: https://ess.science.energy.gov/wp-content/uploads/2022/05/IDEAS_Flyer.pdf
     - name: HPC Best Practices (EXTERNAL)
-      link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
+      link: https://ideas-productivity.org/events/hpc-best-practices-webinars

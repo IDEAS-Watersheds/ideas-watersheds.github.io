@@ -1,8 +1,8 @@
 ---
 layout: page_software
 title: Software Ecosystem
-permalink: /software-ecosystem/
-hero_image: /img/black.jpg
+permalink: /software-ecosystem
+hero_image: /img/hero_logo.jpg
 hero_height: is_fullheight
 
 ---
@@ -44,7 +44,7 @@ IDEAS-Watersheds team members lead development on [**Primary Codes**](/software-
         <ul><br><br><br>
         <li> <b>Workflow Tools</b> support data collection and preprocessing, model setup, ensembles of simulations, post processing and analysis.</li>
         <li> <b>Codes and Interface Libraries</b> support flexible mechanistic and multi-scale simulations of coupled hydro-biogechemical processes.</li>
-        <li><b> <a href="/software-ecosystem/codes/">Primary Codes</a> and <a href="/software-ecosystem/workflowtools/">Primary Workflow Tools:</a></b> Members of our team contribute to design and development.</li>
+        <li><b> <a href="/software-ecosystem/codes">Primary Codes</a> and <a href="/software-ecosystem/workflowtools">Primary Workflow Tools:</a></b> Members of our team contribute to design and development.</li>
         <li> <b>Third Party Codes and Workflow Tools:</b> We are users, development is led outside IDEAS-Watersheds.</li>
         </ul>
     </div>

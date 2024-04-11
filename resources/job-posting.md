@@ -2,7 +2,7 @@
 layout: page_resources
 title: Job Postings
 permalink: /resources/job-posting
-hero_image: /img/black.jpg
+hero_image: /img/hero_logo.jpg
 hero_height: is_fullheight
 
 ---

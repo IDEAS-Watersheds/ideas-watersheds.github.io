@@ -1,7 +1,7 @@
 ---
 layout: page_research
 title: Research Activities
-permalink: /research/
+permalink: /research
 hero_image: /img/IDEAS-Watersheds-banner.jpg
 hero_height: is_fullheight
 

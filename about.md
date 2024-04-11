@@ -1,7 +1,7 @@
 ---
 layout: page_about
 title: About
-permalink: /about/
+permalink: /about
 hero_image: /img/hero_logo.jpg
 hero_height: is_fullheight
 
