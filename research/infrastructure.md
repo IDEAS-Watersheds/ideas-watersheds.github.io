@@ -15,52 +15,82 @@ hero_height: is_fullheight
     }
 
 .col1 {
-      flex: 3; 
-      min-width: 400px;
+      flex: 2; 
+      min-width: 300px;
     }
 
 .col2 {
       flex: 2;
-      min-width: 400px;
+      min-width: 300px;
     }
 
 </style>
 
 # Project Structure and Approach
 
-Although the modeling strategies adopted by various activities within SBR differ in important details, they share significant modeling challenges and infrastructure needs. Shared computational infrastructure needs include workflow tools for transferring information across scales, customized meshing, and model-data integration, and interfaces to couple multiple process-based codes and support code interoperability.
+DEAS–Watersheds is organized around four research activities and four shared infrastructure activities, and advances software development methodologies and engagement in the growing community-driven software ecosystem
 
-The IDEAS-Watersheds Shared Infrastructure Activity will coordinate the development of the shared infrastructure by creating and advancing existing multiscale workflow tools and software interfaces to support interoperability.
+- Research activities are pursued jointly with the multiscale watershed [SFA partnerships](/about/sfa) and strive to develop process-level understanding of watershed function.    
+- Shared infrastructure activities provide cross cutting support for the research activities through the software ecosystem, including enhancing sustainability with the Software Stewardship activity, developing nationally consistent data sets in the Integrated Hydrologic Simulation Infrastructure (IHSI) activity, addressing land surface model integration with Integrated Hydrology in the Land Model Interface (LMI) activity, and training. 
 
-The Shared Infrastructure can be shared among the SFAs to support those multi-scale models and reduce duplication of effort and ensure long-term sustainability of the capability.
-
-<br>
-<h3>The IDEAS-Watersheds Shared Infrastructure Activity includes:</h3>
-<div class="cont">
-  <div class="col1">
-    <ul>
-      <li><strong><em>Multiscale Workflow Tools for hydrobiogeochemical simulations and analyses across multiple resolutions and scales</em></strong></li>
-        <ul>
-          <li> multi-resolution unstructured meshes that conform to stream/river geometries and allow refinement in and near river corridors</li>
-          <li> using metagenomics data for reaction network generation</li>
-          <li> etc.</li>
-          </ul>
-      <li><strong><em>Interfaces</em></strong></li>
+<h3>Shared Infrastructure Activities</h3>
+<h6> Software Stewardship </h6><div>
+Sustainability of the software ecosystem, which includes the overall quality and usability, requires support for software stewards to ensure
       <ul>
-        <li> Continue development of formalized interfaces to support code interoperability, focusing on further development of Alquimia and a land-model interface</li>
-        </ul>
-      <li><strong><em>Sustainable Software Ecosystem</em></strong></li>
-  </ul></div>
-  <div class="col2"><img width="75%" src="/img/shared_infrastructure.png"></div>
-</div>
-
-<div>
-<h3>The IDEAS-Watersheds Shared Infrastructure Activity</h3>
-      <ul>
-        <li> Extends the BER ecosystem of interoperable software tools and components to better represent hydrobiogeochemical processes in dynamic stream/river corridors along the river continuum.</li>
-        <li> Provides software tools and workflows that can be shared among the Science Focus Areas (SFA's) as well as the critical (and currently incomplete) experience base on how to parameterize and use the new capabilities.</li>
+        <li> New capabilities are integrated, tested, and included in regular releases.</li>
+        <li> Code reviews are integrated into the development workflow.</li>
+        <li> Regular releases of  the software are made with persistent versioning (e.g., DOI)</li>
+        <li> Documentation and tutorials are maintained and improved.</li>
+        <li> Deployments of the entire software ecosystem that make it easier to access and use.</li>
       </ul>
 </div>
 <br>
 
-*Image: Example relationship of modeling domains across scales: the multiscale workflow activity will enable model output to be used to drive boundary conditions of models at finer scales. Workflows will also be developed to work with model input data in native formats and scales, and map it to the desired computational mesh. Particle-based methods are being advanced to analyze scaling relationships and identify potential strategies for bridging fine-scale mechanistic models and understanding to larger scales.*
+<h6> Land Model Interface </h6><div>
+The need for integrated hydro-terrestrial models that combine coupled surface/subsurface flow (Integrated Hydrology Models - IHMs) with the vegetative and ecosystem processes found in Land Surface Models (LMs) has exploded creating an array of incomplete solutions and fragmentation that is challenging for users. 
+<br>
+<div class="cont">
+        <div class="col1" ><br>
+        <ul>
+          <li>A key deliverable is a workshop that brings the Integrated Hydrology and Land Surface modeling communities together to chart an effective path forward. </li>
+          <li>Coupling established models, IHMs and LSMs, brings the best of both capabilities together, addressing critical gaps they have alone.</li>
+        </ul>
+      </div>
+        <div class="col2">
+          <center><img max-width="75%" src="/img/int_hydro.png"></center><br>
+        </div>
+    
+</div>
+<br>
+
+<h6> Integrated Hydrologic Simulation Infrastructure (IHSI) </h6><div>
+To accelerate development and evaluation of watershed and regional models we address the need for consistent datasets and tools that can be used across watersheds for modeling water, energy fluxes and transport. 
+<br>
+<div class="cont">
+        <div class="col1">
+          <center><img max-width="55%" src="/img/IHSI.png"></center><br>
+        </div>
+    <div class="col2" ><br>
+        <ul>
+          <li>Extensive testing at the watershed scale across diverse hydrogeologic settings.  </li>
+          <li>Building workflow tools to subset national simulations and support watershed scale simulations </li>
+          <li>A key deliverable is spatially consistent subsurface hydrogeology datasets designed for hydrologic modeling up to the continental scale available through ESS-DIVE.</li>
+        </ul>
+    </div>
+</div>
+<br>
+
+<h6> Training </h6><div>
+The cohort of early career scientists jointly funded by IDEAS-Watersheds and the SFA Partnerships, as well as early career scientists involved in IHSI and LMI, participate in a variety of collaborative activities, including
+      <ul>
+        <li> Monthly meetings on <a href="/resources/seminars">Software Development Best Practices</a> cover topics relevant to both workflow tools and simulation codes including, version control, continuous integration and testing, parallel debugging and visualization.</li>
+        <li> Monthly meetings on <a href="/resources/seminars">Modeling Case Studies</a> raise awareness of the challenges and approaches to process-based modeling, sharing our experiences and stimulating new collaborations on synergistic topics across the project.</li>
+        <li> Short courses for the primary codes are increasingly available online and are expanding to include more material on workflows and coupled simulations, such as ATS-PFLOTRAN.</li>
+      </ul>
+</div>
+<br>
+
+<h6> Community Building and Broader Outreach </h6><div>
+  IDEAS-Watersheds supports a wide range of activities, including a leadership role in the ESS Cyberinfrastructure Working groups, community benchmarking and model-intercomparison studies, and interagency collaboration.</div>
+
+<br><strong><a href="/resources/outreach"> Learn More about our Training and Outreach</a></strong>
