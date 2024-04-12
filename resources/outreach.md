@@ -47,6 +47,7 @@ The IDEAS-Watersheds project hosts a variey of concurrent series each month. The
   * Advanced course at the University of Arizona in October 2019. 
 
 * PFLOTRAN Short Courses
+  * Reactive Transport with Sophisticated Reaction Networks: Hands-On Experience with the PFLOTRAN Reaction Sandbox, CUAHSI Workshop, November 6-9, 2023, [https://www.cuahsi.org/workshops/reactive-transport-with-sophisticated-reaction-networks-hands-on-experience-with-the-pflotran-reaction-sandbox](https://www.cuahsi.org/workshops/reactive-transport-with-sophisticated-reaction-networks-hands-on-experience-with-the-pflotran-reaction-sandbox)
   *	Led by SNL for DOE Office of Nuclear Energy
   * Jun-Aug 2021 (virtual), and Jun-Jul 2022 (virtual)
 
@@ -95,6 +96,8 @@ The IDEAS-Watersheds project hosts a variey of concurrent series each month. The
   Sergi Molins, Barcelona, Aug 17-18 2019.
 
 ### Conferences, Workshops, and Meetings
+
+* ESS Cyberinfrastructure Virtual Annual Meeting (April 15, 2024). 
 
 * ESS Cyberinfrastructure Virtual Annual Meeting (May 23, 2022). 
 
