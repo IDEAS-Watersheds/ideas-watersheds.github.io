@@ -1,8 +1,8 @@
 ---
 layout: page_resources
 title:  Plenary Series
-subtitle: Enabling Carbon and Nitrogen Cycling Studies from Batch to Watershed Scales
-date:   2024-03-12 
+subtitle: NGEE Arctic. Integrating Boots-on-the-Ground Observations with the Virtual World of Models to Answer Big Science Questions Across the Arctic
+date:   2024-05-28 
 categories: highlight
 hero_image: /img/black.jpg
 hero_height: is_fullheight
@@ -10,10 +10,10 @@ is_series: true
 series_title: "Post"
 ---
 
-<strong>Enabling Carbon and Nitrogen Cycling Studies from Batch to Watershed Scales</strong><br> Xingyuan Chen, Pacific Northwest National Laboratory<br><em>March 12, 2024</em>
+<strong>NGEE Arctic: Integrating Boots-on-the-Ground Observations with the Virtual World of Models to Answer Big Science Questions Across the Arctic</strong><br>Colleen M. Iversen,
+Oak Ridge National Laboratory <br><em>May 28, 2024</em><br>
 
-[More Information](/resources/plenary/plenary_2024/2024-3-12_xchen)
-
+[More Information](/resources/plenary/plenary_2024/2024-5-28_civersen)
 
 <br><br> **OLDER POSTS**
 {% if page.is_series == true %}
