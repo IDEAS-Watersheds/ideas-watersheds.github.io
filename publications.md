@@ -34,6 +34,8 @@ hero_height: is_fullheight
 
 ## Watershed Dynamics and Evolution (WaDE) SFA Partnership
 ### PUBLICATIONS
+- Rathore, S.S., ET Coon and SL Painter. A Stream-aligned Mixed Polyhedral Meshing Strategy for Integrated Surface-Subsurface Hydrological Models. Computers and Geosciences (2024) [https://doi.org/10.1016/j.cageo.2024.105617](https://doi.org/10.1016/j.cageo.2024.105617)
+- S.S. Rathore, A.S. Ward, S.L. Painter. Numerical evaluation of photosensitive tracers as a strategy for separating surface and subsurface transient storage in streams. Journal of Hydrology. (2023) [https://doi.org/10.1016/j.jhydrol.2023.129931](https://doi.org/10.1016/j.jhydrol.2023.129931)
 - Le, PVV, SS Rathore, SL Painter,  A multiscale model for solute transport in stream corridors with unsteady flow. Journal of Hydrology, 622: 129670. (2023) DOI:[10.1016/j.jhydrol.2023.129670](https://doi.org/10.1016/j.jhydrol.2023.129670), 2023
 - SS Rathore, GE Schwartz, SC Brooks,  & SL Painter. Joint estimation of biogeochemical model parameters from multiple experiments: A bayesian approach applied to mercury methylation. Environmental Modelling & Software, 155, 105453. [https://www.sciencedirect.com/science/article/pii/S1364815222001591](https://www.sciencedirect.com/science/article/pii/S1364815222001591), 2022
 - Jan, A., Coon, E. T., and Painter, S. L. Toward more mechanistic representations of biogeochemical processes in river networks: Implementation and demonstration of a multiscale model. Environmental Modelling & Software, 145, 105166. [https://doi.org/10.1016/j.envsoft.2021.105166](https://doi.org/10.1016/j.envsoft.2021.105166), 2021
