@@ -13,7 +13,7 @@ series_title: "Post"
 <strong>Fire. Not the disturbance you think it is. And we are not going to use your grandfather’s model to understand it.</strong><br>Adam Atchley,
 Los Alamos National Laboratory<br><em>January 30, 2024</em><br>
 
-[More Information](https:///ideas-watersheds.github.io/resources/plenary/plenary_2024/2024-1-30_aatchley)
+[More Information](/resources/plenary/plenary_2024/2024-1-30_aatchley)
 
 <br><br> **OLDER POSTS**
 {% if page.is_series == true %}
