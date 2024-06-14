@@ -9,7 +9,7 @@ hero_height: is_fullheight
 
 ## Watershed Function SFA Partnership: East River Use Case
 ### PUBLICATIONS
-- Sulman, Benjamin N., Jiaze Wang, Sophie LaFond-Hudson, Theresa A. O’Meara, Fengming Yuan, Sergi Molins, Glenn Hammond, Inke Forbrich, Zoe G. Cardon, and Anne Giblin, Integrating tide-driven wetland soil redox and biogeochemical interactions into a land surface model, Journal of Advances in Modeling Earth Systems, doi:10.1029/2023MS004002, 2024
+- Sulman, Benjamin N., Jiaze Wang, Sophie LaFond-Hudson, Theresa A. O’Meara, Fengming Yuan, Sergi Molins, Glenn Hammond, Inke Forbrich, Zoe G. Cardon, and Anne Giblin, Integrating tide-driven wetland soil redox and biogeochemical interactions into a land surface model, Journal of Advances in Modeling Earth Systems, [doi:10.1029/2023MS004002](https://doi.org/10.1029/2023MS004002), 2024
 - Dwivedi, D., Steefel, C. I., Arora, B., Banfield, J., Bargar, J., Boyanov, M. I., Painter, S. L. et al. From legacy contamination to watershed systems science: a review of scientific insights and technologies developed through DOE-supported research in water and energy security. Environ. Res. Lett. 17 043004. DOI [https://doi.org/10.1088/1748-9326/ac59a9](https://doi.org/10.1088/1748-9326/ac59a9), 2022
 - Xu, Z., Molins, S., Özgen-Xian, I., Dwivedi, D., Svyatsky, D., Moulton, J. D., & Steefel, C. Understanding the hydrogeochemical response of a mountainous watershed using integrated surface-subsurface flow and reactive transport modeling. Water Resources Research, 58, e2022WR032075. [https://doi.org/10.1029/2022WR032075](https://doi.org/10.1029/2022WR032075), 2022
 -  Molins, S., Svyatsky, D., Xu, Z., Coon, E. T., & Moulton, J. D. A multicomponent reactive transport model for integrated surface-subsurface hydrology problems. Water Resources Research, 58, e2022WR032074. [https://doi.org/10.1029/2022WR032074](https://doi.org/10.1029/2022WR032074), 2022
@@ -21,6 +21,11 @@ hero_height: is_fullheight
 - Dwivedi, D., Steefel, C. I., Arora, B., Newcomer, M., Moulton, J. D., Dafflon, B., et al. Geochemical Exports to River From the Intrameander Hyporheic Zone Under Transient Hydrologic Conditions: East River Mountainous Watershed, Colorado. Water Resources Research, 54(10), 8456–8477. [https://doi.org/10.1029/2018WR023377](https://doi.org/10.1029/2018WR023377), 2018
 
 ### PRESENTATIONS
+
+- Zexuan Xu, Sergi Molins, Helen Weierbach, Dipankar Dwivedi, John D Moulton and Carl I Steefel (2023), Understanding hydrogeochemical responses using a data-rich integrated hydrology and reactive transport modeling at a mountainous watershed,  AGU Fall Meeting, San Francisco, CA, H23B-03
+- Sergi Molins, Daniil Svyatsky, Zexuan Xu, Ethan Coon, John D Moulton, (2023) Implementing reactive transport processes into an integrated surface-subsurface hydrology model, AGU Fall Meeting, San Francisco, CA, H51W-1432
+- Helen Weierbach, Zexuan Xu, Utkarsh Mital, Sergi Molins, Carl I Steefel and Dipankar Dwivedi, The Impact of Downscaled Meteorological Forcing on High-Resolution Hydrological Modeling Under Historical and Future Climate Conditions in a Mountainous Watershed, AGU Fall Meeting, San Francisco, CA, H23O-1782
+- Benjamin N Sulman, Jiaze Wang, Sophie LaFond-Hudson, Teri O'Meara, Fengming Yuan, Sergi Molins, Glenn Hammond, Inke Forbrich, Zoe G Cardon and Anne E Giblin, (2023) Simulating tide-driven wetland soil redox and biogeochemical interactions in a land surface model, AGU Fall Meeting, San Francisco, CA, B51E-1828
 - Xu Z., S. Molins, D. Dwivedi, et al. Simulating nitrogen processes in a mountainous watershed using an integrated hydrology and reactive transport model, AGU Fall Meeting, H44F-02, 2022.
 - Molins S., D. Svyatskiy, E. Coon, Z. Xu, and D. Moulton (Invited) Modeling Reactive Transport across the Surface-Subsurface Interface, SIAM Geosciences 2021.
 - Özgen-Xian, I., Caviedes-Voullieme, D., Crompton, O., Morales-Hernandez, M., Dwivedi, D., Xu, Z., Molins S., Steefel, C.I. Overland flow connectivity states in Lower Triangle Region, East River, Colorado, AGU Fall Meeting, H215–0012, 2020.
