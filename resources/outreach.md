@@ -26,6 +26,10 @@ The IDEAS-Watersheds project hosts a variey of concurrent series each month. The
 * [Software Best Pactices](seminars.md) cover topics relevant to both workflow tools and simulation codes including, version control, continuous integration and testing, parallel debugging and visualization.
 * [Office Hours](seminars.md) are an informal meeting with Software Stewards to address questions about the simulation codes and workflows that are supported under IDEAS-Watersheds
 
+### How to get involved
+
+* To join us contact David Moulton at [moulton@lanl.gov](mailto:moulton@lanl.gov)
+
 # Past Activities
 
 ### Short Courses

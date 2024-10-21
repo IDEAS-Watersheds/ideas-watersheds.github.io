@@ -15,6 +15,8 @@ presents a virtual community series featuring our Nation’s watershed science w
 
 | Date  |  Presenter             | Title and Topic Description |
 |:------|:---------------------------------------------|:---------------------------------------------------------------------------| 
+| September 10 | Scott Painter| [The WaDE-SFA/IDEAS-Watersheds partnership: Advancing models for dissolved oxygen dynamics in stream network](plenary/plenary_2024/2024-9-10_spainter.md)
+| May 28 | Colleen Iverson <br> Oak Ridge National Laboratory| [Integrating Boots-on-the-Ground Observations with the Virtual World of Models to Answer Big Science Questions Across the Arctic](plenary/plenary_2024/2024-5-28_civerson.md)
 |March 12|Xingyuan Chen, <br> Pacific Northwest National Laboratory|[Enabling Carbon and Nitrogen Cycling Studies from Batch to Watershed Scales](plenary/plenary_2024/2024-3-12_xchen.md)|
 |Jan 30|Adam Atchley, <br> Los Alamos National Laboratory|[Fire. Not the disturbance you think it is. And we are not going to use your grandfather’s model to understand it.](plenary/plenary_2024/2024-1-30_aatchley.md)|
 

@@ -1,0 +1,27 @@
+---
+layout: page_resources
+title:  Plenary Series
+subtitle: The WaDE-SFA/IDEAS-Watersheds partnership- Advancing models for dissolved oxygen dynamics in stream network
+date:   2024-09-10
+categories: highlight
+hero_image: /img/black.jpg
+hero_height: is_fullheight
+is_series: true
+series_title: "Post"
+---
+
+<strong>The WaDE-SFA/IDEAS-Watersheds partnership: Advancing models for dissolved oxygen dynamics in stream network</strong><br> Scott Painter, Oak Ridge National Laboratory<br><em>September 10, 2024</em>
+
+[More Information](https://ideas-watersheds.github.io/resources/plenary/plenary_2024/2024-9-10_spainter)
+
+
+<br><br> **OLDER POSTS**
+{% if page.is_series == true %}
+{% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' | reverse %}
+
+{% for post in posts %}
+        {% if post.url != page.url %}
+ 		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.subtitle }}</a> Published on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time><br>
+        {% endif %}
+{% endfor %}
+{% endif %}

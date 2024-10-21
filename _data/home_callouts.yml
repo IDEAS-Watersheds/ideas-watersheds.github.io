@@ -3,7 +3,7 @@ height: is-small
 items:
   - title: Training & Outreach
     description: >
-      Latest software and HPC training
+      Latest Training & How to Get Involved
     icon: fa-user-circle
     call_to_action_name: Learn More
     call_to_action_link: /resources/outreach

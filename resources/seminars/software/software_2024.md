@@ -15,4 +15,7 @@ hero_height: is_fullheight
 
 | Date      |   Presenter                            | Title and Topic Description                    |
 |:----------|:---------------------------------------|:-----------------------------------------------|
+| October 9 | Andrew Graus (LBNL) | Current Progress of the ATS-EcoSIM coupling
+| September 24 | Laura Condon, Reed Maxwell and Steve Smith | Debugging Simulations : ParFlow
+| August 20 | Steve Smith | Introduction to Portable Performance and Roofline
 | March 5 | Steve Smith, George Artavanis, Rich Fiorella| HPC Performance Discussion and Container Update|
