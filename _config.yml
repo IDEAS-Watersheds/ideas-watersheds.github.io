@@ -31,7 +31,7 @@ github_username:  ideas-watersheds
 
 # Build settings
 markdown: kramdown
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-feed
   - jekyll-paginate

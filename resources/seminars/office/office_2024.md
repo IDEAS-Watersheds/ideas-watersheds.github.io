@@ -15,4 +15,6 @@ hero_height: is_fullheight
 
 | Date        |  Presenter                             | Title and Topic Description                    |
 |:------------|:---------------------------------------|:-----------------------------------------------|
+| June 27 | Software Stewards | Office Hours |
+| April 30 | Software Stewards | Office Hours |
 | April 2 | Software Stewards | Office Hours |
