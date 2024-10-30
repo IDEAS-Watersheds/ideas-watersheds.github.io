@@ -48,8 +48,6 @@ The Arctic is a historically understudied biome that holds at least twice as muc
 Observations made by the NGEE Arctic team across a gradient of permafrost landscapes in Alaska have improved the representation of tundra processes in the Energy, Exascale Earth System Model (E3SM). Our modeling approach was initially driven by the recognition that the current generation of models failed to capture many processes controlling climate feedbacks in Arctic tundra. Model improvements have emphasized unique aspects of permafrost environments and explored reductions in model complexity while retaining predictive power. We are now leveraging our Arctic-informed models to make novel predictions. For example, we found that improved model representation of the unique characteristics of tundra plants improved model prediction of carbon-climate feedbacks and underscored the need for dynamic vegetation. In turn, improved model representation of ground subsidence predicted that a sinking tundra surface is unlikely to trigger runaway permafrost thaw. Furthermore, machine-learning algorithms trained on thousands of observations improved model representation of snow distribution across the landscape. The next phase of NGEE Arctic proposes to confront models trained on and evaluated against observations from Arctic Alaska with current observations and projected climate responses across the Arctic.
 <br><br>
 
-[Project Website](https://ngee-arctic.ornl.gov/)
-
 Presentation Slides (Coming soon!)
 
 Video Link (Coming soon!)
