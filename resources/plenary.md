@@ -15,6 +15,7 @@ presents a virtual community series featuring our Nation’s watershed science w
 
 | Date  |  Presenter             | Title and Topic Description |
 |:------|:---------------------------------------------|:---------------------------------------------------------------------------| 
+| October 29 | Charlie Koven | [The ELM-FATES model: representing the roles of natural and anthropogenic disturbance in the Earth system](plenary/plenary_2024/2024-10-29_ckoven.md)
 | September 10 | Scott Painter| [The WaDE-SFA/IDEAS-Watersheds partnership: Advancing models for dissolved oxygen dynamics in stream network](plenary/plenary_2024/2024-9-10_spainter.md)
 | May 28 | Colleen Iverson <br> Oak Ridge National Laboratory| [Integrating Boots-on-the-Ground Observations with the Virtual World of Models to Answer Big Science Questions Across the Arctic](plenary/plenary_2024/2024-5-28_civerson.md)
 |March 12|Xingyuan Chen, <br> Pacific Northwest National Laboratory|[Enabling Carbon and Nitrogen Cycling Studies from Batch to Watershed Scales](plenary/plenary_2024/2024-3-12_xchen.md)|
