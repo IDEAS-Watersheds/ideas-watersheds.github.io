@@ -10,9 +10,9 @@ is_series: true
 series_title: "Post"
 ---
 
-<strong>Integrating Boots-on-the-Ground Observations with the Virtual World of Models to Answer Big Science Questions Across the Arctic.</strong><br> Colleen Iverson, Oak Ridge National Laboratory<br><em>May 28, 2024</em>
+<strong>Integrating Boots-on-the-Ground Observations with the Virtual World of Models to Answer Big Science Questions Across the Arctic.</strong><br> Colleen Iversen, Oak Ridge National Laboratory<br><em>May 28, 2024</em>
 
-[More Information](https://ideas-watersheds.github.io/resources/plenary/plenary_2024/2024-5-28_civerson)
+[More Information](https://ideas-watersheds.github.io/resources/plenary/plenary_2024/2024-5-28_civersen)
 
 
 <br><br> **OLDER POSTS**
