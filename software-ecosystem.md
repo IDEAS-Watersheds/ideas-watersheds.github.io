@@ -2,7 +2,7 @@
 layout: page_software
 title: Software Ecosystem
 permalink: /software-ecosystem
-hero_image: /img/hero_logo.jpg
+hero_image: /img/black.jpg
 hero_height: is_fullheight
 
 ---
@@ -38,7 +38,7 @@ IDEAS-Watersheds team members lead development on [**Primary Codes**](/software-
 <body>
     <div class="cont">
         <div class="col1">
-          <img width="85%" src="/img/EBSD0412_Ecosystem2023_3partyB.png">
+          <img width="85%" src="/img/EBSD0926_IDEAS_updates2_softEco4.png">
         </div>
     <div class="col2">
         <ul><br><br><br>

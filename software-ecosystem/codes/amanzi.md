@@ -4,7 +4,7 @@ title: Amanzi
 permalink: /software-ecosystem/codes/amanzi
 show_sidebar: false
 menubar: softwares
-hero_image: /img/hero_logo.jpg
+hero_image: /img/black.jpg
 hero_height: is_fullheight
 ---
 

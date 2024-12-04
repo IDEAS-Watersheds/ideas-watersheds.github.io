@@ -1,5 +1,9 @@
 <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_image }}') no-repeat center right; background-size: cover;" {% endif %}>
     <div class="hero-body {% if page.hero_darken %} hero-darken {% endif %}">
+        
+        <div>
+            <img style="float:right; max-height: 30rem;" src="/img/IDEAS_watershed-logo_whiteText.png" alt="Logo"/>
+        </div>
         <div class="container">
             <p class="subtitle is-3">&nbsp;  </p>
             <p class="subtitle is-3">&nbsp;  </p>
@@ -9,5 +13,6 @@
                 <a href="{{ page.hero_link | relative_url }}" class="button is-info is-large">{{ page.hero_link_text }}</a>
             {% endif %}
         </div>
+        
     </div>
 </section>
