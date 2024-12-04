@@ -2,7 +2,7 @@
 layout: page_research
 title: Shared Infrastructure Activity 
 permalink: /research/infrastructure
-hero_image: /img/IDEAS-Watersheds-banner.jpg
+hero_image: /img/hero_resources.jpg
 hero_height: is_fullheight
 
 ---

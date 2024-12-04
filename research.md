@@ -2,7 +2,7 @@
 layout: page_research
 title: Research Activities
 permalink: /research
-hero_image: /img/IDEAS-Watersheds-banner.jpg
+hero_image: /img/hero_research.jpg
 hero_height: is_fullheight
 
 ---
@@ -36,7 +36,7 @@ Water resources are critically important for energy production, drinking water, 
 By tightly integrating observations, experiments, and modeling, ESS advances systems-level understanding of how watersheds function and translates that understanding into advanced science-based models of watershed systems. The <strong>IDEAS–Watersheds</strong> project enables scientific software development by building new applications from reusable, robust, and scalable software components and libraries, using the best available software development practices and tools.
 </p>
 
-<center><img width="65%" src="/img/EBSD0412_partnerships2023v2.png"></center>
+<center><img width="65%" src="/img/MOULTON_IDEAS_updates-02.png"></center>
 
 # Three Partnership Activities with ESS’s interdisciplinary SFAs 
 IDEAS–Watersheds is organized around three partnership activities and four shared **[infrastructure activities](/research/infrastructure)** to address important scientific challenges and advance software development methodologies and engagement in the growing community-driven software ecosystem. 
