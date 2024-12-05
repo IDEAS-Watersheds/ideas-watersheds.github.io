@@ -11,19 +11,18 @@ hero_height: is_fullheight
     .cont {
       display: flex;
       flex-wrap: wrap;
-      padding: 20px;
-      column-gap: 20px;
     }
 
-    .col1 {
+.col1 {
       flex: 3; 
-      min-width: 400px;
+      min-width: 200px;
     }
 
-    .col2 {
+.col2 {
       flex: 2;
-      min-width: 400px;
+      min-width: 200px;
     }
+
 </style>
 
 
@@ -49,6 +48,6 @@ IDEAS-Watersheds team members lead development on [**Primary Codes**](/software-
         </ul>
     </div>
 </div>
-</body>
+</body><br>
 
 The <b><a href="/research/infrastructure">Software Stewardship Activity</a></b> ensures sustainability of the software ecosystem and focuses on support for the primary Workflow Tools and Codes.  This approach helps researchers accelerate watershed science by providing well tested and documented new or enhanced capabilities, while supporting and promoting best practices in reproducible, transparent and transferable modeling and simulation.

@@ -8,34 +8,37 @@ hero_height: is_fullheight
 ---
 
 <style>
-    .wrapper {
-        display:grid;
-        grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
-        max-width: 1250px;
-        margin: 1px auto;
-        padding: 20px;
-        gap: 20px;
+    .cont {
+      display: flex;
+      flex-wrap: wrap;
     }
-    .wrapper > div{
-        padding: 1em;
+
+.col1 {
+      flex: 2; 
+      min-width: 200px;
     }
-    .wrapper > div:nth-child(odd){
+
+.col2 {
+      flex: 3;
+      min-width: 200px;
     }
+
 </style>
 
 <body>
-    <div class = "wrapper">
-
-    	<div><left><br><br>
-        <h4>
-        November 14-15, 2024<br>
-        Courtyard Marriott Denver Airport<br>
-        Denver, Colorado<br>
-        6901 Tower Road<br>
-        <a href="https://www.marriott.com/en-us/hotels/denap-courtyard-denver-airport/overview/">Hotel Map</a> 
-        </h4></left></div>
-
+    <div class="cont">
+        <div class="col1">
+            <h4>
+            November 14-15, 2024<br>
+            Courtyard Marriott Denver Airport<br>
+            Denver, Colorado<br>
+            6901 Tower Road<br>
+            <a href="https://www.marriott.com/en-us/hotels/denap-courtyard-denver-airport/overview/">Hotel Map</a> 
+            </h4>
+        </div>
+    <div class="col2">
     </div>
+</div>
 </body>
 
 # Meeting Agenda:

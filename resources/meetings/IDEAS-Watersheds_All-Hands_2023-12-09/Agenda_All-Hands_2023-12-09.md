@@ -8,39 +8,39 @@ hero_height: is_fullheight
 ---
 
 <style>
-    .wrapper {
-        display:grid;
-        grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
-        max-width: 1250px;
-        margin: 1px auto;
-        padding: 20px;
-        gap: 20px;
+    .cont {
+      display: flex;
+      flex-wrap: wrap;
     }
-    .wrapper > div{
-        padding: 1em;
+
+.col1 {
+      flex: 2; 
+      min-width: 200px;
     }
-    .wrapper > div:nth-child(odd){
+
+.col2 {
+      flex: 3;
+      min-width: 200px;
     }
+
 </style>
 
 <body>
-    <div class = "wrapper">
-
-    	<div><left><br><br>
-        <h4>
-        December 9-10, 2023<br>
-        Stanford University<br>
-        Green Earth Sciences Building <br>
-        367 Panama Mall Stanford<br>
-        Room 365 <br>
-        <a href="https://campus-map.stanford.edu">Campus Map</a> 
-        </h4></left></div>
-
-        <div><right>
+    <div class="cont">
+        <div class="col1">
+            <h4>
+            December 9-10, 2023<br>
+            Stanford University<br>
+            Green Earth Sciences Building <br>
+            367 Panama Mall Stanford<br>
+            Room 365 <br>
+            <a href="https://campus-map.stanford.edu">Campus Map</a> 
+            </h4>
+        </div>
+    <div class="col2">
         <img src="/img/photos/all_hands_group_photo.png" align="right"><br>
-        </right></div>
-
     </div>
+</div>
 </body>
 
 # Meeting Agenda:

@@ -20,7 +20,7 @@ hero_height: is_fullheight
 
 .col2 {
       flex: 4;
-      min-width: 400px;
+      min-width: 200px;
     }
 
 </style>

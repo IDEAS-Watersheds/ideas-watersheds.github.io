@@ -6,42 +6,40 @@ permalink: /resources/plenary/plenary_2024/2024-1-30_aatchley
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 ---
+
 <style>
-    .wrapper {
-        display:grid;
-        grid-template-columns: 70% 30%;
-        grid-gap: 1em;
-        text-align:left;
-        vertical-align:middle;
+    .cont {
+      display: flex;
+      flex-wrap: wrap;
     }
-    .wrapper > div{
-        padding: 1em;
+
+.col1 {
+      flex: 3; 
+      min-width: 200px;
     }
-    .wrapper > div:nth-child(odd){
+
+.col2 {
+      flex: 1;
+      min-width: 200px;
     }
-    /* Add this CSS rule to set the height of the image */
-    .wrapper img {
-        height: 200px; /* Adjust the height value as needed */
-    }
+
 </style>
 
 <body>
-    <div class = "wrapper">
-
-    	<div><left>
+    <div class="cont">
+      <div class="col1">
         <h3><strong>Adam Atchley</strong></h3>
         Research Scientist <br>
         Earth and Environmental Sciences <br>
         <b>Los Alamos National Laboratory</b>
         <br><br>
         <em>Tuesday, January 30 at 1:00-2:00 PM PT / 4:00-5:00 PM ET</em><br>
-        <br><br></left></div>
-
-        <div><right>
-        <img src="../../../../img/photos/aatchley.png" align="center"><br>
-        </right></div>
-
-    </div>
+        <br><br>
+      </div>
+        <div class="col2">
+            <img src="../../../../img/photos/aatchley.png" align="center"><br>
+        </div>
+    </div><br><br>
 </body>
 
 **ABSTRACT**

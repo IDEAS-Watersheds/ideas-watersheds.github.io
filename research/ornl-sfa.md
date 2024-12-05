@@ -3,7 +3,7 @@ layout: page_research
 title: Watershed Dynamics and Evolution (WaDE) SFA
 permalink: /research/ornl-sfa
 subtitle: Oak Ridge National Laboratory
-hero_image: /img/hero_resources.jpg
+hero_image: /img/hero_research.jpg
 hero_height: is_fullheight
 
 ---
