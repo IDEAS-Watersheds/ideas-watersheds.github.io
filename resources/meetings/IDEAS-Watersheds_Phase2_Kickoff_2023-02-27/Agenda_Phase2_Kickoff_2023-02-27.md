@@ -6,8 +6,39 @@ hero_image: /img/black.jpg
 hero_height: is_fullheight
 
 ---
+
+<style>
+    .cont {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+.col1 {
+      flex: 2; 
+      min-width: 200px;
+    }
+
+.col2 {
+      flex: 3;
+      min-width: 200px;
+    }
+
+</style>
+
+<body>
+    <div class="cont">
+        <div class="col1">
+            <h4>
+            February 27, 2023<br> 
+            </h4>
+        </div>
+    <div class="col2">
+    </div>
+</div>
+</body>
+
 # Meeting Agenda:
-#### *Date: February 27, 2023*
+#### *Monday February 27, 2023*
 Time: 9:00 AM -- Noon (PT), Noon -- 3:00 PM (ET)
 
 <br><br>
