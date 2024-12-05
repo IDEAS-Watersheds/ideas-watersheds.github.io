@@ -4,10 +4,10 @@
         <div>
             <img style="float:right; max-height: 30rem;" src="/img/IDEAS_watershed-logo_whiteText.png" alt="Logo"/>
         </div>
-        <div class="container">
+        <div class="container" style="margin: 1rem;">
             <p class="subtitle is-3">&nbsp;  </p>
             <p class="subtitle is-3">&nbsp;  </p>
-            <h1 class="title is-2" style="color:#e3ebf1;">{{ page.title }}</h1>
+            <h1 class="title is-2" style="color:#e3ebf1; word-break: keep-all;">{{ page.title }}</h1>
             <p class="subtitle is-4" style="color:#e3ebf1;">{{ page.subtitle }}</p>
             {% if page.hero_link %}
                 <a href="{{ page.hero_link | relative_url }}" class="button is-info is-large">{{ page.hero_link_text }}</a>

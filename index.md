@@ -1,5 +1,5 @@
 ---
-title: IDEAS-Watersheds
+title: IDEAS Watersheds
 subtitle: Accelerating watershed science through a community-driven software ecosystem
 layout: page
 hero_image: /img/hero_research.jpg
