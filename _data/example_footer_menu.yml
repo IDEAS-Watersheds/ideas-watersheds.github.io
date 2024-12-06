@@ -1,8 +1,8 @@
 - name: Home
   link: /
 - name: Software Ecosystem
-  link: /software-ecosystem/
+  link: /software-ecosystem
 - name: Research Activities
-  link: /research/
+  link: /research
 - name: Contact
   link: /about/leadership
