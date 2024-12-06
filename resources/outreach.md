@@ -9,10 +9,16 @@ hero_height: is_fullheight
 
 The IDEAS-Watersheds project (co-)organizes a variety of workshops and trainings, and presents at events of interest to the community. Details on individual presentations at these events are included in our [publications page](/publications).
 
+### How to get involved
+
+* To join us contact David Moulton at [moulton@lanl.gov](mailto:moulton@lanl.gov)
+
 # Upcoming Activities
 
-* ParFlow short course coming at ModFlow
-* EES PI Meeting April 16-17, 2024
+* AGU Annual Conference (December 9-13, 2024)
+
+* EES PI Meeting April 2025
+
 * **Stay tuned, more to follow soon.** 
 
 # Current and Ongoing Activities
@@ -26,9 +32,7 @@ The IDEAS-Watersheds project hosts a variey of concurrent series each month. The
 * [Software Best Pactices](seminars.md) cover topics relevant to both workflow tools and simulation codes including, version control, continuous integration and testing, parallel debugging and visualization.
 * Office Hours are an informal meeting with Software Stewards to address questions about the simulation codes and workflows that are supported under IDEAS-Watersheds
 
-### How to get involved
 
-* To join us contact David Moulton at [moulton@lanl.gov](mailto:moulton@lanl.gov)
 
 # Past Activities
 
@@ -99,6 +103,16 @@ The IDEAS-Watersheds project hosts a variey of concurrent series each month. The
   Sergi Molins, Barcelona, Aug 17-18 2019.
 
 ### Conferences, Workshops, and Meetings
+
+* Modflow & More Annual Conference (June 2024)
+
+* ESS Cyberinfrastructure Virtual Annual Meeting (April 15, 2024). 
+
+* AGU Annual Conference (December 11-15, 2023)
+
+* ESS Cyberinfrastructure Virtual Annual Meeting (May 15, 2023). 
+
+* Modflow & More Annual Conference (June 2022)
 
 * ESS Cyberinfrastructure Virtual Annual Meeting (May 23, 2022). 
 
