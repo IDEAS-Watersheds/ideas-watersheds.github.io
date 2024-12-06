@@ -8,38 +8,55 @@ hero_height: is_fullheight
 ---
 
 <style>
-    .cont {
-      display: flex;
-      flex-wrap: wrap;
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-auto-rows: auto;
+        grid-auto-flow: dense;
+        gap: 6px;
+        min-width: 200px;
     }
 
-.col1 {
-      flex: 2; 
-      min-width: 200px;
+    img.four-grid-cells {
+        grid-row: span 2 / auto;
+        grid-column: span 2 / auto;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 
-.col2 {
-      flex: 3;
-      min-width: 200px;
+    img.single-grid-cell {
+        grid-row: span 1 / auto;
+        grid-column: span 1 / auto;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 
 </style>
 
-<body>
-    <div class="cont">
-        <div class="col1">
-            <h4>
-            November 14-15, 2024<br>
-            Courtyard Marriott Denver Airport<br>
-            Denver, Colorado<br>
-            6901 Tower Road<br>
-            <a href="https://www.marriott.com/en-us/hotels/denap-courtyard-denver-airport/overview/">Hotel Map</a> 
-            </h4>
+<div>
+        <div class="gallery">
+            <img class="four-grid-cells"
+                src="/img/All-Hands_2024/IMG_6049.jpg"/>
+            <img class="single-grid-cell"
+                src="/img/All-Hands_2024/IMG_6051.jpg"/>
+            <img class="single-grid-cell"
+                src="/img/All-Hands_2024/IMG_6052.jpg"/>
+            <img class="single-grid-cell"
+                src="/img/All-Hands_2024/IMG_6053.jpg"/>
+            <img class="single-grid-cell" 
+                src="/img/All-Hands_2024/IMG_6050.jpg"/>
         </div>
-    <div class="col2">
-    </div>
-</div>
-</body>
+</div><br><br>
+
+<h4>
+November 14-15, 2024<br>
+Courtyard Marriott Denver Airport<br>
+Denver, Colorado<br>
+6901 Tower Road<br>
+<a href="https://www.marriott.com/en-us/hotels/denap-courtyard-denver-airport/overview/">Hotel Map</a> 
+</h4>
 
 # Meeting Agenda:
 
