@@ -17,7 +17,11 @@ The IDEAS-Watersheds project (co-)organizes a variety of workshops and trainings
 
 * AGU Annual Conference (December 9-13, 2024)
 
-* EES PI Meeting April 2025
+* ATS and Watershed Workflow short courses coming in Spring 2025
+
+* Cyberinfrastructure Working Groups Annual Meeting April 14, 2025
+
+* EES PI Meeting April 15 - 16, 2025
 
 * **Stay tuned, more to follow soon.** 
 
@@ -48,7 +52,7 @@ The IDEAS-Watersheds project hosts a variey of concurrent series each month. The
     Contacts: Ethan Coon and David Moulton
 
 * ParFlow Shortcourse Series
-  * ParFlow Short course Princeton, June 2-3, 2022 <br>
+  * ParFlow Short course at Modflow & More, June 6 -7, 2024 <br>
    	Course material is available online [here](https://igwmc.princeton.edu/modflow/courses-and-more/#integrated-simulation). <br>
     Contacts: Reed Maxwell, Laura Condon
   * Introductory course at the Colorado School of Mines in May 2020 
