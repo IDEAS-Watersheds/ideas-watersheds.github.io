@@ -55,6 +55,8 @@ The IDEAS-Watersheds project hosts a variey of concurrent series each month. The
   * ParFlow Short course at Modflow & More, June 6 -7, 2024 <br>
    	Course material is available online [here](https://igwmc.princeton.edu/modflow/courses-and-more/#integrated-simulation). <br>
     Contacts: Reed Maxwell, Laura Condon
+      * Integrated Simulation Of Watershed Systems Using ParFlow, June 6 -7, 2024
+      * Subsetting Using HydroFrame and Hydrodata, June 7, 2024
   * Introductory course at the Colorado School of Mines in May 2020 
   * Advanced course at the University of Arizona in October 2019. 
 
