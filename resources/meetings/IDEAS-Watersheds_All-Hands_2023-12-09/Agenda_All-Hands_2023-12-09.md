@@ -1,7 +1,7 @@
 ---
 layout: page_resources
 title: IDEAS-Watersheds (Phase 2) All Hands Fall 2023
-permalink: /resources/meetings/IDEAS-Watersheds_All-Hands_2023-12-09
+permalink: /resources/meetings/IDEAS-Watersheds_All-Hands_2023-12-09/Agenda_All-Hands_2023-12-09
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 

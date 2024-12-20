@@ -10,7 +10,7 @@ is_series: true
 series_title: "Post"
 ---
 
-<strong>TThe ELM-FATES model: representing the roles of natural and anthropogenic disturbance in the Earth system</strong><br> Charlie Koven, Lawrence Berkeley National Laboratory<br><em>October 29, 2024</em>
+<strong>The ELM-FATES model: representing the roles of natural and anthropogenic disturbance in the Earth system</strong><br> Charlie Koven, Lawrence Berkeley National Laboratory<br><em>October 29, 2024</em>
 
 [More Information](https://ideas-watersheds.github.io/resources/plenary/plenary_2024/2024-10-29_ckoven)
 
