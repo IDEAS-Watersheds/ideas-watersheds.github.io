@@ -1,7 +1,7 @@
 ---
 layout: page_resources
 title: IDEAS-Watersheds All Hands Fall 2024
-permalink: /resources/meetings/IDEAS-Watersheds_All-Hands_2024-11-14
+permalink: /resources/meetings/IDEAS-Watersheds_All-Hands_2024-11-14/Agenda_All-Hands_2024-11-14
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 
