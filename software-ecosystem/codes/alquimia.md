@@ -12,6 +12,15 @@ hero_height: is_fullheight
 
 {{ site.data.alquimia-int.description }} 
 
+<!-- Adding Docker tutorial button
+<br>
+<div class="has-text-center">
+    <a href="{{site.data.alquimia-int.docker_url}}" class="button is-primary">Quick Start with Docker</a>
+</div>
+
+***
+-->
+
 **Contact:** {{ site.data.alquimia-int.contact}} (<{{ site.data.alquimia-int.contact_email }}>), {{site.data.alquimia-int.contact_institution}} <br>
 **DOI:**  [{{ site.data.alquimia-doecode.doi }}]({{ site.data.alquimia.doi }} ) <br>
 **Licenses:**  {{ site.data.alquimia-int.licenses }} <br>

@@ -9,6 +9,7 @@ contact_email: "coonet@ornl.gov"
 landing_page: "https://amanzi.github.io"
 repository_url: "https://github.com/amanzi/ats"
 documentation_url: "https://amanzi.github.io/ats"
+docker_url: "https://github.com/amanzi/ats/wiki/DockerAndCI"
 
 description: "A code for solving ecosystem-based, integrated,
   distributed hydrology.  It builds on the multi-physics framework and

@@ -12,6 +12,15 @@ hero_height: is_fullheight
 
 {{ site.data.crunchflow-int.description }} 
 
+<!-- Adding Docker tutorial button
+<br>
+<div class="has-text-center">
+    <a href="{{site.data.crunchflow-int.docker_url}}" class="button is-primary">Quick Start with Docker</a>
+</div>
+
+***
+-->
+
 **Contact:** {{ site.data.crunchflow-int.contact}} (<{{ site.data.crunchflow-int.contact_email }}>), {{site.data.crunchflow-int.contact_institution}} <br>
 **Licenses:**  {{ site.data.crunchflow-int.licenses }} <br>
 

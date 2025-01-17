@@ -9,6 +9,7 @@ contact_email: "moulton@lanl.gov"
 landing_page: "https://amanzi.github.io"
 repository_url: "https://github.com/amanzi/amanzi"
 documentation_url: "https://amanzi.github.io/amanzi"
+docker_url: "https://github.com/amanzi/amanzi/wiki/Docker-Guide-for-Amanzi"
 
 description: "A flexible and extensible flow and reactive transport
   simulation capability for environmental applications.  It includes

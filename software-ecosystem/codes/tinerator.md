@@ -8,12 +8,25 @@ hero_image: /img/black.jpg
 hero_height: is_fullheight
 ---
 
-#### TINerator [<i class="fas fa-book"></i>](https://raw.githack.com/lanl/LaGriT/tinerator/html/index.html) [<i class="fab fa-github"></i>](https://github.com/lanl/LaGriT/tree/tinerator)
+### {{ site.data.tinerator-int.software_title }} [<i class="fas fa-book"></i>]({{site.data.tinerator-int.landing_page}}) [<i class="fab fa-github"></i>]({{site.data.tinerator-int.repository_url}})
 
-TINerator is a tool for the fast creation of extruded and refined meshes from DEM and GIS data, developed at Los Alamos National Laboratory to aid in hydrogeological simulations.
+{{ site.data.tinerator-int.description }} 
 
-TINerator allows a user to define a bounding box of latitude/longitude coordinates, a shapefile, or a local DEM, and generate a surface or volume mesh.
+<br>
+<div class="has-text-center">
+    <a href="{{site.data.tinerator-int.docker_url}}" class="button is-primary">Quick Start with Docker</a>
+</div>
 
-The mesh will have the topology of the DEM, along with user-defined material IDs and depths for stacked layers. Further, TINerator performs watershed delination on the defined DEM and refines the mesh’s elements around the feature to a user-defined length scale.
+***
 
-TINerator comes with a host of 2D and 3D visualization functions, allowing the user to view the status of the mesh at every step in the workflow. In addition, there are geometrical tools for removing triangles outside of a polygon, generating quality analytics on the mesh, adding cell- and node-based attributes to a mesh, and much more.
+**Contact:** {{ site.data.tinerator-int.contact}} <!--(<{{ site.data.tinerator-int.contact_email }}>),--> {{site.data.tinerator-int.contact_institution}} <br>
+**DOI:**  [{{ site.data.tinerator.doi }}]({{ site.data.tinerator.doi }} ) <br>
+**Licenses:**  {{ site.data.tinerator.licenses }} <br>
+
+***
+
+### Links
+
+**Website:** [{{ site.data.tinerator-int.landing_page }}]({{ site.data.tinerator-int.landing_page }}) <br>
+**Documentation:** [{{ site.data.tinerator-int.documentation_url }}]({{ site.data.tinerator-int.documentation_url }}) <br>
+**Repository:** [{{site.data.tinerator-int.repository_url}}]( {{site.data.tinerator-int.repository_url}} )
