@@ -12,6 +12,13 @@ hero_height: is_fullheight
 
 {{ site.data.parflow-int.description }} 
 
+<br>
+<div class="has-text-center">
+    <a href="{{site.data.parflow-int.docker_url}}" class="button is-primary">Quick Start with Docker</a>
+</div>
+
+***
+
 **Contact:** {{ site.data.parflow-int.contact}} (<{{ site.data.parflow-int.contact_email }}>), {{site.data.parflow-int.contact_institution}} <br>
 **DOI:**  [{{ site.data.parflow.doi }}]({{ site.data.parflow.doi }} ) <br>
 **Licenses:**  {{ site.data.parflow.licenses }} <br>

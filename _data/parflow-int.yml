@@ -7,6 +7,7 @@ contact_email: "smith84@llnl.gov"
 landing_page: "https://parflow.org"
 repository_url: "https://github.com/parflow/parflow"
 documentation_url: "https://parflow.org/#documentation"
+docker_url: "https://github.com/parflow/docker"
 
 docker_url: "https://hub.docker.com/r/parflow/parflow"
 
