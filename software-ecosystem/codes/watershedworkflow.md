@@ -8,6 +8,27 @@ hero_image: /img/black.jpg
 hero_height: is_fullheight
 ---
 
-#### Watershed Workflow [<i class="fas fa-book"></i>](https://ecoon.github.io/watershed-workflow/build/html/index.html) [<i class="fab fa-github"></i>](https://github.com/ecoon/watershed-workflow)
+### {{ site.data.watershed-int.software_title }} [<i class="fas fa-book"></i>]({{site.data.watershed-int.landing_page}}) [<i class="fab fa-github"></i>]({{site.data.watershed-int.repository_url}})
 
-Watershed Workflow is a python-based, open source chain of tools for generating meshes and other data inputs for hyper-resolution hydrology, anywhere in the (conterminous + Alaska?) US. This package is a python library of tools and a set of jupyter notebooks for interacting with these types of data streams using free and open (both free as in freedom and free as in free beer) python and GIS libraries and data. Critically, this package provides a way for automatically and quickly downloading, interpreting, and processing data needed to generate a "first" hyper-resolution simulation on any watershed in the conterminous United States (and most of Alaska/Hawaii/Puerto Rico). To do this, this package provides tools to automate downloading a wide range of open data streams, including data from United States governmental agencies, including USGS, USDA, DOE, and others. These data streams are then colocated on a mesh which is generated based on a watershed delineation and a river network, and that mesh is written in one of a variety of mesh formats for use in hyper-resolution simulation tools.
+{{ site.data.watershed-int.description }} 
+
+<!--
+<br>
+<div class="has-text-center">
+    <a href="{{site.data.watershed-int.docker_url}}" class="button is-primary">Quick Start with Docker</a>
+</div>
+-->
+
+***
+
+**Contact:** {{ site.data.watershed-int.contact}} <!--(<{{ site.data.watershed-int.contact_email }}>),--> {{site.data.watershed-int.contact_institution}} <br>
+**DOI:**  [{{ site.data.watershed-int.doi }}]({{ site.data.watershed-int.doi }} ) <br>
+**Licenses:**  [{{ site.data.watershed-int.license_type }}]({{ site.data.watershed-int.licenses }}) 
+
+***
+
+### Links
+
+**Website:** [{{ site.data.watershed-int.landing_page }}]({{ site.data.watershed-int.landing_page }}) <br>
+**Documentation:** [{{ site.data.watershed-int.documentation_url }}]({{ site.data.watershed-int.documentation_url }}) <br>
+**Repository:** [{{site.data.watershed-int.repository_url}}]({{site.data.watershed-int.repository_url}})
