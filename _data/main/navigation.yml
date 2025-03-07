@@ -18,6 +18,9 @@
     - name: Training and Outreach
       link: /resources/outreach
     - name: IDEAS-Watershed Brochure
-      link: https://ess.science.energy.gov/wp-content/uploads/2022/05/IDEAS_Flyer.pdf
+      link: /img/pdf/IDEAS-Watersheds_2024-2.pdf
+    - name: Success Stories
+      link: /success-stories
     - name: HPC Best Practices (EXTERNAL)
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars
+
