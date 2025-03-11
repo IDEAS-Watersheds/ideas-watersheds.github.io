@@ -11,6 +11,13 @@ presents a virtual community series featuring our Nation’s watershed science w
 
 <br>
 
+### 2025
+
+| Date  |  Presenter             | Title and Topic Description |
+|:------|:---------------------------------------------|:---------------------------------------------------------------------------| 
+| March 11 | Alexis Navarre-Sitchler <br> Colorado School of Mines | [Design it, build it, run it, break it: Rethinking how we train researchers to apply numerical models to earth systems](plenary/plenary_2025/2025-3-11_asitchler.md)
+| February 18 | Ethan Coon <br> Oak Ridge National Laboratory | [Predicting the impacts of tomorrow’s storms on tomorrow’s cities](plenary/plenary_2025/2025-2-18_ecoon.md)
+
 ### 2024
 
 | Date  |  Presenter             | Title and Topic Description |
