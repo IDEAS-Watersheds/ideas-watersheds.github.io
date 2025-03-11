@@ -1,6 +1,6 @@
 ---
 layout: page_resources
-title: Success Stories
+title: Community Impact
 permalink: /success-stories
 hero_image: /img/black.jpg
 hero_height: is_fullheight
