@@ -12,7 +12,7 @@ series_title: "Post"
 
 <strong>Design it, build it, run it, break it: Rethinking how we train researchers to apply numerical models to earth systems</strong><br> Alexis Navarre-Sitchler, Colorado School of Mines<br><em>March 11, 2025</em>
 
-[More Information](https://ideas-watersheds.github.io/resources/plenary/plenary_2025/2025-3-11_asitchler)
+[More Information](../../../../../resources/plenary/plenary_2025/2025-3-11_asitchler)
 
 
 <br><br> **OLDER POSTS**

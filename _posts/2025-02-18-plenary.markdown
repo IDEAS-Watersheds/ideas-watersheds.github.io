@@ -12,7 +12,7 @@ series_title: "Post"
 
 <strong>Predicting the impacts of tomorrow’s storms on tomorrow’s cities</strong><br> Ethan Coon, Oak Ridge National Laboratory<br><em>February 18, 2025</em>
 
-[More Information](https://ideas-watersheds.github.io/resources/plenary/plenary_2025/2025-2-18_ecoon)
+[More Information](../../../../../resources/plenary/plenary_2025/2025-2-18_ecoon)
 
 
 <br><br> **OLDER POSTS**
