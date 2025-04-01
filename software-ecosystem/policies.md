@@ -1,6 +1,6 @@
 ---
 layout: page_software
-title: Community Software Policies
+title: User Software Policies
 permalink: /software-ecosystem/policies
 hero_image: /img/black.jpg
 hero_height: is_fullheight

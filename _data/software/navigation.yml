@@ -27,11 +27,11 @@
       link: /software-ecosystem/codes
     - name: IDEAS Watersheds Workflow Tools
       link: /software-ecosystem/workflowtools
-    - name: Community Policy
+    - name: User Policy
       link: /software-ecosystem/policies
 - name: Publications
   link: /publications
-- name: Community Impact
+- name: User Impact
   link: /success-stories
 - name: Resources
   dropdown:
@@ -45,7 +45,5 @@
       link: /resources/outreach
     - name: IDEAS-Watershed Brochure
       link: /img/pdf/IDEAS-Watersheds_2024-2.pdf
-    - name: Success Stories
-      link: /success-stories
     - name: HPC Best Practices (EXTERNAL)
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars
