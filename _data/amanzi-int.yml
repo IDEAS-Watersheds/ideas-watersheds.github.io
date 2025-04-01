@@ -2,9 +2,9 @@ hero_image:
 
 software_title: Amanzi
 
-contact: "David Moulton"
-contact_institution: "LANL"
-contact_email: "moulton@lanl.gov"
+contact: 
+contact_institution: 
+contact_email: "ats-users@googlegroups.com"
 
 landing_page: "https://amanzi.github.io"
 repository_url: "https://github.com/amanzi/amanzi"

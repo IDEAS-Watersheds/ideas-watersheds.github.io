@@ -27,12 +27,10 @@
       link: /software-ecosystem/codes
     - name: IDEAS Watersheds Workflow Tools
       link: /software-ecosystem/workflowtools
-    - name: User Policy
+    - name: Community Policy
       link: /software-ecosystem/policies
 - name: Publications
   link: /publications
-- name: User Impact
-  link: /success-stories
 - name: Resources
   dropdown:
     - name: Internal Seminars

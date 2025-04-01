@@ -2,9 +2,9 @@ hero_image:
 
 software_title: Advanced Terrestrial Simulator (ATS)
 
-contact: "Ethan Coon"
-contact_institution: "ORNL"
-contact_email: "coonet@ornl.gov"
+contact: 
+contact_institution: 
+contact_email: "ats-users@googlegroups.com"
 
 landing_page: "https://amanzi.github.io"
 repository_url: "https://github.com/amanzi/ats"

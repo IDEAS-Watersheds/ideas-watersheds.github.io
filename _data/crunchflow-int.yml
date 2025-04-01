@@ -2,9 +2,9 @@ hero_image:
 
 software_title: CrunchFlow 
 
-contact: "Sergi Molins"
-contact_institution: "LBNL"
-contact_email: "smolins@lbnl.gov"
+contact: 
+contact_institution:
+contact_email: "crunchusers@lbl.gov"
 
 landing_page: "https://bitbucket.org/crunchflow/crunchtope-dev"
 repository_url: "https://bitbucket.org/crunchflow/crunchtope-dev/src"

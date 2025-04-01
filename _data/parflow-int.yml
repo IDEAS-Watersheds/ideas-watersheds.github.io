@@ -1,8 +1,8 @@
 hero_image: 
 
-contact: "Steve Smith"
-contact_institution: "LLNL"
-contact_email: "smith84@llnl.gov"
+contact: 
+contact_institution: 
+contact_email: "parflow@googlegroups.com"
 
 landing_page: "https://parflow.org"
 repository_url: "https://github.com/parflow/parflow"
