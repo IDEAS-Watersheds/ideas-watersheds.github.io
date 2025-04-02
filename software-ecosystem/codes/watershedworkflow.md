@@ -12,12 +12,11 @@ hero_height: is_fullheight
 
 {{ site.data.watershed-int.description }} 
 
-<!--
 <br>
 <div class="has-text-center">
     <a href="{{site.data.watershed-int.docker_url}}" class="button is-primary">Quick Start with Docker</a>
 </div>
--->
+
 
 ***
 

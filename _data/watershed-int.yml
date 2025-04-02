@@ -9,7 +9,7 @@ contact_email: ""
 landing_page: "https://environmental-modeling-workflows.github.io/watershed-workflow"
 repository_url: "https://github.com/environmental-modeling-workflows/watershed-workflow"
 documentation_url: "https://environmental-modeling-workflows.github.io/watershed-workflow"
-docker_url: ""
+docker_url: "https://environmental-modeling-workflows.github.io/watershed-workflow/build/html/install.html#installation-with-docker"
 
 licenses: "https://raw.githubusercontent.com/environmental-modeling-workflows/watershed-workflow/refs/heads/master/LICENSE"
 license_type: "BSD 3-clause"
