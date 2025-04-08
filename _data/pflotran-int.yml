@@ -1,8 +1,8 @@
 hero_image: 
 
-contact: "Glenn Hammond"
-contact_institution: "PNNL"
-contact_email: "glenn.hammond@pnnl.gov"
+contact: 
+contact_institution: 
+contact_email: "pflotran-users@googlegroups.com"
 
 landing_page: "https://www.pflotran.org"
 repository_url: "https://bitbucket.org/pflotran/pflotran"

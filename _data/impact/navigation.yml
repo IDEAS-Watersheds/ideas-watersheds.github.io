@@ -1,0 +1,47 @@
+- name:  About
+  link: /about
+  dropdown:
+    - name: Project Leadership
+      link: /about/leadership
+    - name: Team Members
+      link: /about/team
+    - name: SFAs
+      link: /about/sfa
+- name: Research Activities
+  link: /research
+  dropdown:
+    - name: LBNL SFA
+      link: /research/lbnl-sfa
+    - name: ORNL SFA
+      link: /research/ornl-sfa
+    - name: PNNL SFA
+      link: /research/pnnl-sfa
+    - name: Reaction Network
+      link: /research/reaction
+    - name: Shared Infrastructure
+      link: /research/infrastructure
+- name: Software Ecosystem
+  link: /software-ecosystem
+  dropdown:
+    - name: IDEAS Watersheds Codes
+      link: /software-ecosystem/codes
+    - name: IDEAS Watersheds Workflow Tools
+      link: /software-ecosystem/workflowtools
+    - name: Community Policy
+      link: /software-ecosystem/policies
+- name: Publications
+  link: /publications
+- name: Resources
+  dropdown:
+    - name: Internal Seminars
+      link: /resources/seminars
+    - name: Plenary Seminars
+      link: /resources/plenary
+    - name: Team Meetings
+      link: /resources/meetings
+    - name: Training and Outreach
+      link: /resources/outreach
+    - name: IDEAS-Watershed Brochure
+      link: /img/pdf/IDEAS-Watersheds_2024-2.pdf
+    - name: HPC Best Practices (EXTERNAL)
+      link: https://ideas-productivity.org/events/hpc-best-practices-webinars

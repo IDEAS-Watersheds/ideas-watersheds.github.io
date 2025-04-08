@@ -12,10 +12,12 @@ hero_height: is_fullheight
 
 {{ site.data.tinerator-int.description }} 
 
+<!--
 <br>
 <div class="has-text-center">
     <a href="{{site.data.tinerator-int.docker_url}}" class="button is-primary">Quick Start with Docker</a>
 </div>
+-->
 
 ***
 

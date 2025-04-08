@@ -1,4 +1,3 @@
-
 - name:  About
   link: /about
   dropdown:
@@ -10,8 +9,26 @@
       link: /about/sfa
 - name: Research Activities
   link: /research
+  dropdown:
+    - name: LBNL SFA
+      link: /research/lbnl-sfa
+    - name: ORNL SFA
+      link: /research/ornl-sfa
+    - name: PNNL SFA
+      link: /research/pnnl-sfa
+    - name: Reaction Network
+      link: /research/reaction
+    - name: Shared Infrastructure
+      link: /research/infrastructure
 - name: Software Ecosystem
   link: /software-ecosystem
+  dropdown:
+    - name: IDEAS Watersheds Codes
+      link: /software-ecosystem/codes
+    - name: IDEAS Watersheds Workflow Tools
+      link: /software-ecosystem/workflowtools
+    - name: Community Policy
+      link: /software-ecosystem/policies
 - name: Publications
   link: /publications
 - name: Resources
@@ -25,6 +42,6 @@
     - name: Training and Outreach
       link: /resources/outreach
     - name: IDEAS-Watershed Brochure
-      link: https://ess.science.energy.gov/wp-content/uploads/2022/05/IDEAS_Flyer.pdf
+      link: /img/pdf/IDEAS-Watersheds_2024-2.pdf
     - name: HPC Best Practices (EXTERNAL)
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars

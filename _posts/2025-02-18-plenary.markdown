@@ -1,0 +1,27 @@
+---
+layout: page_resources
+title:  Plenary Series
+subtitle: Predicting the impacts of tomorrow’s storms on tomorrow’s cities
+date:   2025-02-18
+categories: highlight
+hero_image: /img/black.jpg
+hero_height: is_fullheight
+is_series: true
+series_title: "Post"
+---
+
+<strong>Predicting the impacts of tomorrow’s storms on tomorrow’s cities</strong><br> Ethan Coon, Oak Ridge National Laboratory<br><em>February 18, 2025</em>
+
+[More Information](../../../../../resources/plenary/plenary_2025/2025-2-18_ecoon)
+
+
+<br><br> **OLDER POSTS**
+{% if page.is_series == true %}
+{% assign posts = site.posts | where: "is_series", true | where: "series_title", page.series_title | sort: 'date' | reverse %}
+
+{% for post in posts %}
+        {% if post.url != page.url %}
+ 		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.subtitle }}</a> Published on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time><br>
+        {% endif %}
+{% endfor %}
+{% endif %}
