@@ -1,6 +1,6 @@
 ---
 layout: page_resources
-title: User Impact
+title: Success Stories
 subtitle: Flexible software infrastructure for bridging scales in simulations benefits multiple projects
 permalink: /success-stories/stories/flexible-infrastructure
 hero_image: /img/black.jpg
