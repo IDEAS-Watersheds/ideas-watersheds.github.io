@@ -21,7 +21,7 @@ Los Alamos National Laboratory<br><em>January 30, 2024</em><br>
 
 {% for post in posts %}
         {% if post.url != page.url %}
- 		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.subtitle }}</a> Published on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time><br>
+ 		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}- {{post.subtitle }}</a> Published on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time><br>
         {% endif %}
 {% endfor %}
 {% endif %}
