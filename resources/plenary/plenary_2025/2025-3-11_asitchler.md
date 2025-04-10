@@ -45,4 +45,4 @@ Use of numerical simulation is increasingly important in the geosciences as the 
 <br><br>
 [Presentation Slides](../Slides/asitchler_2025-03-11.pdf)
 
-Video Link (Coming soon!)
+[Video](https://youtu.be/rjP0TISu258?si=fM5sxMrogXbThVuK)

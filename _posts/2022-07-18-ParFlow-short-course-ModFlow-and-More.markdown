@@ -1,9 +1,11 @@
 ---
-layout: post
-title:  ParFlow Short Course at ModFlow and More
-subtitle: Integrated Simulation Of Watershed Systems Using ParFlow
+layout: page_resources
+title:  Community News
+subtitle: ParFlow Short Course at ModFlow and More
 date:   2022-07-18 
 categories: highlight
+hero_image: /img/black.jpg
+hero_height: is_fullheight
 is_series: true
 series_title: "Post"
 ---
@@ -21,7 +23,7 @@ The course material is all available online through the github repository,
 
 {% for post in posts %}
         {% if post.url != page.url %}
- 		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.subtitle }}</a> Published on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time><br>
+ 		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}- {{post.subtitle }}</a> Published on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time><br>
         {% endif %}
 {% endfor %}
 {% endif %}

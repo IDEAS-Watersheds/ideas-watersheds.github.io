@@ -47,4 +47,4 @@ Ghost forests and abandoned farms are stark indicators of ecological change alon
 <br><br>
 [Presentation Slides](../Slides/hMichael_2023-9-26.pdf)
 
-Video Link (Coming soon!)
+[Video](https://youtu.be/JYhLayQL8zI?si=rSiXT3asaB-0NU7u)

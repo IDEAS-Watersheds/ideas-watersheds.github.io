@@ -1,9 +1,11 @@
 ---
-layout: post
-title:  ATS Short Course material available online
-subtitle: ATS short courseATS short course
+layout: page_resources
+title:  Community News
+subtitle: ATS Short Course material available online
 date:   2021-09-30
 categories: highlight
+hero_image: /img/black.jpg
+hero_height: is_fullheight
 is_series: true
 series_title: "Post"
 ---
@@ -21,7 +23,7 @@ includes all the course material, including the slides and links to the recordin
 
 {% for post in posts %}
         {% if post.url != page.url %}
- 		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.subtitle }}</a> Published on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time><br>
+ 		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}- {{post.subtitle }}</a> Published on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time><br>
         {% endif %}
 {% endfor %}
 {% endif %}

@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  PFLOTRAN Reactive Transport Short Course
-subtitle : PFLOTRAN Reactive Transport with Sophisticated Reaction Networks
+title:  Community News
+subtitle : PFLOTRAN Reactive Transport Short Course
 date:   2023-08-28
 categories: highlight
+hero_image: /img/black.jpg
+hero_height: is_fullheight
 is_series: true
 series_title: "Post"
 ---
+
 A new short course, **PFLOTRAN Reactive Transport with Sophisticated Reaction Networks: Hands-On Experience with the PFLOTRAN Reaction Sandbox**, will take place Nov 6-9 at Pacific Northwest National Laboratory, Richland, WA.
 
 Reactive transport modeling is increasingly important for solving real-world environmental issues related to water quality and ecological habitats and in evaluating the performance of environmental restoration and remediation efforts. This course will train participants in conceptualizing, implementing, and troubleshooting reaction networks in reactive transport models through hands-on experience.

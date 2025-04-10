@@ -47,4 +47,4 @@ Observations made by the NGEE Arctic team across a gradient of permafrost landsc
 
 [Presentation Slides](../Slides/civersen_2024-05-28.pdf)
 
-Video Link (Coming soon!)
+[Video](https://youtu.be/4CLjocF610A?si=9mhImaajvF4_asc7)

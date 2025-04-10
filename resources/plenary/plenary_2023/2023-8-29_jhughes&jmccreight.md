@@ -46,4 +46,4 @@ hero_height: is_fullheight
 <br><br>
 Presentation Slides (Coming Soon!)
 
-Video Link (Coming soon!)
+[Video](https://youtu.be/Dxf5iTRJ8cI?si=KZiAOCvTmQBhqQlx)
