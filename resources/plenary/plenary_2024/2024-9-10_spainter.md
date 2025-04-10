@@ -45,4 +45,4 @@ The southeastern United States is experiencing and will continue to experience i
 <br><br>
 Presentation Slides (Coming soon!)
 
-Video Link (Coming soon!)
+[Video](https://youtu.be/MBh_e1gFTys?si=djR577Hzg7txE48z)

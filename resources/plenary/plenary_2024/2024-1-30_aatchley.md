@@ -48,4 +48,4 @@ Over 70% of the terrestrial Earth is affected by fire in some way and roughly 50
 <br><br>
 [Presentation Slides](../Slides/aAtchley_2024-01-30.pdf)
 
-Video Link (Coming soon!)
+[Video](https://youtu.be/5ECnz1SLNZY?si=S6HavwigbakugNeh)
