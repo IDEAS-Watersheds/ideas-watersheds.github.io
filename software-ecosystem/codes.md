@@ -62,7 +62,7 @@ hero_height: is_fullheight
         </center></div>
 
         <div><center><br>
-        <img src="../../img/parflow-sticker.png" align="center"><br><br><br>
+        <img src="../../img/ParFlow-Sticker.png" align="center"><br><br><br>
         <strong><a href="/software-ecosystem/codes/parflow"> ParFlow </a></strong><br>
         The integrated watershed model, solves saturated and variably saturated flow in three dimensions.
         </center></div>
