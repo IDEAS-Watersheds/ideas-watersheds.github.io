@@ -13,6 +13,7 @@ We have two series of internal training seminars that are largely informal and p
 
 Raises awareness of the challenges and approaches to mechanistic modeling of complex environmental systems, sharing our experiences and stimulating new collaborations on synergistic topics across the project.
 
+[ [2025](seminars/modeling/modeling_2025.md) ]
 [ [2024](seminars/modeling/modeling_2024.md) ]
 [ [2023](seminars/modeling/modeling_2023.md) ]
 [ [2022](seminars/modeling/modeling_2022.md) ]
@@ -24,6 +25,7 @@ Raises awareness of the challenges and approaches to mechanistic modeling of com
 
 Meetings on Software Development Best Practices cover topics relevant to both workflow tools and simulation codes, particularly around areas of sustainability and reproducibility.  Topics include, version control, continuous integration and testing, parallel debugging and visualization, and Jupyter notebooks.
 
+[ [2025](seminars/software/software_2025.md) ]
 [ [2024](seminars/software/software_2024.md) ]
 [ [2023](seminars/software/software_2023.md) ]
 [ [2022](seminars/software/software_2022.md) ]
@@ -36,4 +38,6 @@ Meetings on Software Development Best Practices cover topics relevant to both wo
 
 Office Hours are an informal meeting with Software Stewards to address questions about the simulation codes and workflows that are supported under IDEAS-Watersheds
 
+[ [2025](seminars/office/office_2025.md) ]
 [ [2024](seminars/office/office_2024.md) ]
+[ [2023](seminars/office/office_2023.md) ]
