@@ -2,24 +2,21 @@
 layout: page_research
 title: Watershed Function SFA 
 permalink: /research/lbnl-sfa
-subtitle: East River User Case (LBNL)
+subtitle: East River Use Case (LBNL-SLAC)
 hero_image: /img/hero_research.jpg
 hero_height: is_fullheight
 gallery: gallery_lbnl
 show_sidebar: false
 ---
 
+Watersheds provide key resources for human populations, with pressing demands for clean water, food, and energy. In parallel, changing hydroclimate, diminished snowpack, and interacting temperature-driven disturbances, are significantly reshaping interactions within watersheds. The Watershed Function Scientific Focus Area (SFA) is addressing the grand challenge of understanding how mountainous watershed functions respond and adapt to increasing disturbances. Our focus is on understanding the interactions of warming and drought with hydrobiogeochemical functioning in mountainous watersheds of the Upper Colorado River Basin and their retention or release of water, carbon, nitrogen, and other biologically critical elements.
 
-The Watershed Function SFA seeks to determine how perturbations to mountainous watersheds (e.g., floods, drought, early snowmelt) impact the downstream delivery of water, nutrients, carbon, and metals. The study area for this use case will be the East River Watershed ([Hubbard et al., 2018][Hubbard]), a representative mountainous watershed in the Upper Colorado River Basin. The domain contains pronounced gradients in hydrology, geomorphology, or type of biome that challenge conventional watershed hydrobiogeochemical models. Currently, no single model can capture all relevant processes across this domain at fine resolution.
-
-Aggregation of the system behavior across subsystems and scales is a central need for the Watershed Function SFA. For example, it seeks to evaluate what the contribution of hillslope or floodplain processes is to net exports of the East River.
-
-IDEAS-Watersheds Partnership with the Watershed Function SFA at LBNL aims to develop a multiscale modeling framework that will allow us to consider processes at different resolutions within the watershed, including both the software tools and workflows required to enable this framework.
-
-Development will be primarily based on the Advanced Terrestrial Simulator (ATS) with a specific emphasis in the newly available reactive transport capabilities. This involves the Alquimia geochemical interface and the geochemical engines PFLOTRAN and CrunchFlow. A central aspect of the work will also be the meshing tools that will support the generation of unstructured meshes with variable resolutions. We intend to develop a simulation capability that relies on multiple resolution unstructured meshes to dynamically adjust the process resolution and efficiently perform the simulation over large spatial extents.
+This SFA will identify watershed functional traits, these are observable characteristics that mechanistically link to ecosystem performance. These traits will be assessed within a new trait-based hydrobiogeochemical modeling capability (ATS-EcoSIM), coupling [ATS][ATS] and [EcoSIM][EcoSIM], which considers watershed compartments' hydrological, ecological and biogeochemical interactions and adaptation in response to disturbances and feedbacks. High-resolution process-based models will be used to achieve mechanistic understanding across scales. Combining remote sensing, field-based observations, laboratory experiments, and machine learning (ML), we will decipher patterns of watershed functional trait covariance and develop ML-based surrogate models to transfer and scale mechanisms. The goal is to gain a predictive understanding of mountainous watershed function and provide valuable insights for sustainable water resources management, land use planning, and climate change adaptation in mountainous regions worldwide.
 
 
-[Hubbard]: https://acsess.onlinelibrary.wiley.com/doi/full/10.2136/vzj2018.03.0061
-[IDEAS]: https://ideas-productivity.org/
+[EcoSIM]: https://ecosim.lbl.gov/
+[ATS]: https://amanzi.github.io/
+
+
 
 
