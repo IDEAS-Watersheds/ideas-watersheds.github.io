@@ -14,7 +14,8 @@ presents a virtual community series featuring our Nation’s watershed science w
 ### 2025
 
 | Date  |  Presenter             | Title and Topic Description |
-|:------|:---------------------------------------------|:---------------------------------------------------------------------------| 
+|:------|:---------------------------------------------|:---------------------------------------------------------------------------|
+| June 10 | Rosemary Carroll <br> Desert Research Institute | [The Critical Role of Groundwater in Streamflow's Response to Drought in Mountain Basins](plenary/plenary_2025/2025-6-10_rcarroll.md)
 | March 11 | Alexis Navarre-Sitchler <br> Colorado School of Mines | [Design it, build it, run it, break it: Rethinking how we train researchers to apply numerical models to earth systems](plenary/plenary_2025/2025-3-11_asitchler.md)
 | February 18 | Ethan Coon <br> Oak Ridge National Laboratory | [Predicting the impacts of tomorrow’s storms on tomorrow’s cities](plenary/plenary_2025/2025-2-18_ecoon.md)
 
