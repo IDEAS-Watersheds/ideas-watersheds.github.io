@@ -1,17 +1,12 @@
 - title: 
   images:
-    - link: /../img/east_river.png
-      large_link: /../img/east_river.png
-      alt: East River Watershed
-      description: Digital elevation map of the East River Watershed at 0.5 m resolution zooming into a subsystem comprising hillslopes and the floodplain, and further into a 2-meander subsection within the floodplain.
-      ratio: is-4by3
-    - link: /../img/LBNL_SFA_variable_resolution.jpg 
-      large_link: /../img/LBNL_SFA_variable_resolution.jpg
-      alt: Variable-resolution unstructured mesh for the East River watershed
-      description: Variable-resolution unstructured mesh for the East River watershed with refinement along stream corridors and in the Lower Triangle Region produced using IDEAS-Watersheds shared infrastructure. PriorityFlow was used for topographic processing, a wavelet-based method was applied to flow metrics to guide the refinement, and LaGriT-based TINerator was used to generate the final computational mesh.
-      ratio: is-4by3
     - link: /../img/LBNL_SFA_simulated_surface.png
       large_link: /../img/LBNL_SFA_simulated_surface.png
       alt: Simulated surface water depth in the East River watershed 
-      description: Simulated surface water depth in the East River watershed with the variable resolution mesh above (spin-up results) (Özgen-Xian et al., in progress) using the ATS simulator, supported as part of the IDEAS Watersheds software ecosystem, which includes integrated hydrology but also reactive transport capabilities (Xu et al, in preparation).
+      description: Simulated surface water depth in the East River watershed using ATS, supported as part of the IDEAS Watersheds software ecosystem, which includes integrated hydrology but also reactive transport capabilities (Molins et al. 2022; Xu et al, 2022).
+      ratio: is-4by3
+    - link: /../img/ats_ecosim.png
+      large_link: /../img/ats_ecosim.png
+      alt: ATS Ecosim
+      description: The Watershed Function SFA is coupling the Advanced Terrestrial Simulator (ATS) with the trait-based ecosystem model EcoSIM using an interoperable software development approach to implement land surface processes in watershed-scale ATS models.      
       ratio: is-4by3
