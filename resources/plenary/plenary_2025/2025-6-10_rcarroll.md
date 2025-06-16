@@ -42,6 +42,6 @@ hero_height: is_fullheight
 
 Using an integrated hydrological model of a headwater basin in the Upper Colorado River we illustrate that in a warmer climate; increased forest water use will result in groundwater storage loss. These losses are expected to be most severe during dry years and cannot recover to historical levels even during simulated wet periods. Groundwater depletion substantially reduces annual streamflow with intermittent conditions predicted when precipitation is low. Work also highlights that deeper, more porous bedrock systems can buffer streamflow declines more effectively during prolonged drought, albeit with slower post-drought recovery. Together, the findings underscore the need to incorporate deep groundwater processes into hydrologic models to improve drought impact predictions and guide sustainable water management in mountain regions given a warmer future.
 <br><br>
-Presentation Slides (Coming Soon!)
+[Presentation Slides](../Slides/rCarroll_2025-6-10.pdf)
 
 Video (Coming Soon!)
