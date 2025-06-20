@@ -9,7 +9,6 @@ hero_height: is_fullheight
 
 ## Watershed Function SFA Partnership: East River Use Case
 ### PUBLICATIONS
-- Rathore, S.S., ET Coon and SL Painter. A Stream-aligned Mixed Polyhedral Meshing Strategy for Integrated Surface-Subsurface Hydrological Models. Computers and Geosciences [https://doi.org/10.1016/j.cageo.2024.105617](https://doi.org/10.1016/j.cageo.2024.105617), 2024
 - Sulman, Benjamin N., Jiaze Wang, Sophie LaFond-Hudson, Theresa A. O’Meara, Fengming Yuan, Sergi Molins, Glenn Hammond, Inke Forbrich, Zoe G. Cardon, and Anne Giblin, Integrating tide-driven wetland soil redox and biogeochemical interactions into a land surface model, Journal of Advances in Modeling Earth Systems, doi:10.1029/2023MS004002, 2024
 - GE Schwartz, KA Muller, SS Rathore, RL Wilpiszeski, AA Carrell, MA Cregger,  et al.. Incorporating concentration-dependent sediment microbial activity into methylmercury production kinetics modeling. Environmental Science: Processes & Impacts. 24, 1392-1405. [https://doi.org/10.1039/D1EM00287B](https://doi.org/10.1039/D1EM00287B), 2022
 - Dwivedi, D., Steefel, C. I., Arora, B., Banfield, J., Bargar, J., Boyanov, M. I., Painter, S. L. et al. From legacy contamination to watershed systems science: a review of scientific insights and technologies developed through DOE-supported research in water and energy security. Environ. Res. Lett. 17 043004. DOI [https://doi.org/10.1088/1748-9326/ac59a9](https://doi.org/10.1088/1748-9326/ac59a9), 2022
@@ -35,6 +34,7 @@ hero_height: is_fullheight
 
 ## Watershed Dynamics and Evolution (WaDE) SFA Partnership
 ### PUBLICATIONS
+- Rathore, S.S., ET Coon and SL Painter. A Stream-aligned Mixed Polyhedral Meshing Strategy for Integrated Surface-Subsurface Hydrological Models. Computers and Geosciences [https://doi.org/10.1016/j.cageo.2024.105617](https://doi.org/10.1016/j.cageo.2024.105617), 2024
 - Le, P.V.V., SS Rathore, ET Coon, A Ward, R Haggerty, and SL Painter. Hydrologic Connectivity and Stream Solute Transport: Insights from a Long-term Tracer Test and Multiscale Transport Modeling Informed by Machine Learning. Water Resources Research (2024) in press
 - Le, PVV, SS Rathore, SL Painter,  A multiscale model for solute transport in stream corridors with unsteady flow. Journal of Hydrology, 622: 129670. (2023) DOI:[10.1016/j.jhydrol.2023.129670](https://doi.org/10.1016/j.jhydrol.2023.129670), 2023
 - SS Rathore, GE Schwartz, SC Brooks,  & SL Painter. Joint estimation of biogeochemical model parameters from multiple experiments: A bayesian approach applied to mercury methylation. Environmental Modelling & Software, 155, 105453. [https://www.sciencedirect.com/science/article/pii/S1364815222001591](https://www.sciencedirect.com/science/article/pii/S1364815222001591), 2022
