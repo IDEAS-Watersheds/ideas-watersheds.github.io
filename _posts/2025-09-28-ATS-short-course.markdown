@@ -2,7 +2,7 @@
 layout: page_resources
 title:  Community News
 subtitle: ATS Short Course a big hit!
-date:   2025-09-08
+date:   2025-09-28
 categories: highlight
 hero_image: /img/black.jpg
 hero_height: is_fullheight
