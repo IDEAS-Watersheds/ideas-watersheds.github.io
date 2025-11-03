@@ -10,7 +10,7 @@ is_series: true
 series_title: "Post"
 ---
 
-<strong>Congratulations to Laura Condon</strong>, our IHSI co-lead, for winning the prestigious <em>Macelwane Medal</em> from the American Geophysical Union!
+<strong>Congratulations to Laura Condon</strong>, our IHSI co-lead, for winning the prestigious <em>James B. Macelwane Medal</em> from the American Geophysical Union!
 
 <style>
     .cont {
@@ -36,7 +36,7 @@ series_title: "Post"
 <body>
     <div class="cont">
       <div class="col1">
-        <p>In IDEAS-Watersheds Laura co-leads the Integrated Hydrologic Simulation Infrastructure (IHSI) activity, which is builds on the theme of her broader research that strives to reshape how scientists view groundwater’s role in the hydrologic cycle and its critical connection to climate, ecosystems, and human water use.  The James B. Macelwane Medal is awarded to early career scientists nominated on the breadth of their research, impact, creativity as well as service and community outreach.  Laura has made contributions in all these areas, contributing at the highest levels such as the National Climate Assessment and advised the White House President’s Council of Advisors on Science and Technology on groundwater issues, and at the grass roots level through teaching and the development of open-source software and FAIR data sets for open science. </p>
+        <p>In IDEAS-Watersheds Laura co-leads the Integrated Hydrologic Simulation Infrastructure (IHSI) activity, which builds on the theme of her broader research that strives to reshape how scientists view groundwater’s role in the hydrologic cycle and its critical connection to climate, ecosystems, and human water use.  The James B. Macelwane Medal is awarded to early career scientists nominated on the breadth of their research, impact, creativity as well as service and community outreach.  Laura has made contributions in all these areas, contributing at the highest levels such as the National Climate Assessment and advised the White House President’s Council of Advisors on Science and Technology on groundwater issues, and at the grass roots level through teaching and the development of open-source software and FAIR data sets for open science. </p>
         <p>Here is the  <a href="https://has.arizona.edu/news/updated-congratulations-has-professor-laura-condon-2025-recipient-agus-james-b-macelwane-medal">link to the full story</a> from the University of Arizona</p>
       </div>
         <div class="col2">
